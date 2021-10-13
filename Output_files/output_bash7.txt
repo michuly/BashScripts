@@ -1,0 +1,5 @@
+HELLO WORLD
+FLUXES: 123 129
+/analysis/michalshaham/BashScripts/Output_files/output_helm5.txt
+DONE FLUXES: 123 129
+BYE BYE

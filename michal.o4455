@@ -1,0 +1,33 @@
+compute-0-16
+/analysis/michalshaham/BashScripts
+loading ...
+loaded conda.sh
+sh shell detected
+/powerapps/share/centos7/miniconda/miniconda3-4.7.12-environmentally/condabin:/powerapps/share/centos7/openmpi-4.0.0-IB/bin:/powerapps/share/centos7/openmpi-4.0.0-IB/include:/home/apps/dedalus/bin:/home/michalshaham/miniconda3/condabin:/powerapps/share/pycharm/pycharm-community-2020.2/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/pbs/bin:/home/michalshaham/.local/bin:/home/michalshaham/bin
+/home/michalshaham/miniconda3/bin:/home/michalshaham/miniconda3/condabin:/powerapps/share/pycharm/pycharm-community-2020.2/bin:/home/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/pbs/bin:/powerapps/share/bin:/opt/puppetlabs/bin:/home/michalshaham/.local/bin:/home/michalshaham/bin
+/powerapps/share/centos7/openmpi-4.0.0-IB/bin/mpiexec
+HELLO WORLD
+FLUXES: 1 16
+/analysis/michalshaham/BashScripts/Output_files/4455.pacific.tau.ac.il.logfile1.txt
+DONE FLUXES: 1 16
+FLUXES: 17 32
+/analysis/michalshaham/BashScripts/Output_files/4455.pacific.tau.ac.il.logfile2.txt
+DONE FLUXES: 17 32
+FLUXES: 33 48
+/analysis/michalshaham/BashScripts/Output_files/4455.pacific.tau.ac.il.logfile3.txt
+DONE FLUXES: 33 48
+FLUXES: 49 64
+/analysis/michalshaham/BashScripts/Output_files/4455.pacific.tau.ac.il.logfile4.txt
+DONE FLUXES: 49 64
+FLUXES: 65 80
+/analysis/michalshaham/BashScripts/Output_files/4455.pacific.tau.ac.il.logfile5.txt
+DONE FLUXES: 65 80
+FLUXES: 81 96
+/analysis/michalshaham/BashScripts/Output_files/4455.pacific.tau.ac.il.logfile6.txt
+DONE FLUXES: 81 96
+FLUXES: 97 112
+/analysis/michalshaham/BashScripts/Output_files/4455.pacific.tau.ac.il.logfile7.txt
+DONE FLUXES: 97 112
+FLUXES: 113 129
+/analysis/michalshaham/BashScripts/Output_files/4455.pacific.tau.ac.il.logfile8.txt
+DONE FLUXES: 113 129

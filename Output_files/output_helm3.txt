@@ -1,0 +1,28 @@
+START RUNNING: DEPTHS 1-32
+
+open files depth: 32 [1-32]
+2021-10-08 16:23:38.033559 , process pid:  205650
+12 LF None False 0 722
+Defining dataset : Steady 32
+/atlantic/michalshaham/Data/Helmholtz/Steady/fw12_LF/XY_032.nc
+Accessing file /atlantic/michalshaham/Data/Helmholtz/Steady/fw12_LF/XY_032.nc, try_num 0 ...
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw12/XY_032.nc
+Traceback (most recent call last):
+  File "/analysis/michalshaham/PythonProjects/Oceanography/scripts/calc_data/Helmholz_data.py", line 82, in <module>
+    helmholz_and_save(data_set, L=200000, dx=390, file_name=file_name, vertical_derivative=vertical_derivative)
+  File "/analysis/michalshaham/PythonProjects/Oceanography/scripts/calc_data/Helmholz_data.py", line 27, in helmholz_and_save
+    u_rot, v_rot = helmholz_decomposition_netcdf(data_set, L, dx, ax_x=2, ax_y=1, use_derivatives=use_derivative,
+  File "/analysis/michalshaham/PythonProjects/Oceanography/tools/simulation_analysis.py", line 210, in helmholz_decomposition_netcdf
+    vort = vorticity_netcdf(data_set, L, dx, ax_x=2, ax_y=1, use_derivatives=use_derivatives,
+  File "/analysis/michalshaham/PythonProjects/Oceanography/tools/simulation_analysis.py", line 227, in vorticity_netcdf
+    return data_set.return_data('dvx', float_type=64) - data_set.return_data('duy', float_type=64)
+  File "/analysis/michalshaham/PythonProjects/Oceanography/open_data.py", line 170, in return_data
+    dat = self.open_data(var_str, float_type, self.filt, 'LF')
+  File "/analysis/michalshaham/PythonProjects/Oceanography/open_data.py", line 106, in open_data
+    dat = self.get_dataset(filter_width=filter_width, freq_domain=freq_domain, rotational=rotational,
+  File "/analysis/michalshaham/PythonProjects/Oceanography/open_data.py", line 99, in get_dataset
+    return Dataset(file_name)
+  File "netCDF4/_netCDF4.pyx", line 2321, in netCDF4._netCDF4.Dataset.__init__
+  File "netCDF4/_netCDF4.pyx", line 1885, in netCDF4._netCDF4._ensure_nc_success
+FileNotFoundError: [Errno 2] No such file or directory: b'/atlantic/michalshaham/Data/Filtered/Steady/fw12/XY_032.nc'

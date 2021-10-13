@@ -1,0 +1,649 @@
+START RUNNING: DEPTHS 117-129
+24 LF rot True 0 722
+24 HF div True 0 722
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.325132 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.388668 , process pid:  227590
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.441599 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.494662 , process pid:  227590
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.547362 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.601314 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.654700 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.709186 , process pid:  227590
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.762368 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.816654 , process pid:  227590
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.870139 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.924031 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 129
+20 LF rot True 0 722
+20 HF div True 0 722
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:44.977555 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.030436 , process pid:  227590
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.084043 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.137202 , process pid:  227590
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.187769 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.281063 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.347297 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.394344 , process pid:  227590
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.441354 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.488391 , process pid:  227590
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.535417 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.584693 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc 129
+16 LF rot True 0 722
+16 HF div True 0 722
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.635529 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Www.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.685111 , process pid:  227590
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Wee.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Wee.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Wee.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.735379 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Wwe.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Wwe.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.784614 , process pid:  227590
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Wew.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Wew.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_hor_Wew.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.833989 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_ver_Www.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_ver_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_ver_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.886327 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_ver_Wwe.nc
+Defining dataset : Stochastic 129
+Defining dataset : Stochastic 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_ver_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw16_LF_rot_fw16_HF_div/XY_ver_Wwe.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.936340 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Www.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:45.985778 , process pid:  227590
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wee.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wee.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wee.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:46.034726 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wwe.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wwe.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:46.085253 , process pid:  227590
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wew.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wew.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wew.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:46.136373 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Www.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Www.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Www.nc 129
+
+open files depth: 129 [117-129]
+2021-09-18 19:16:46.187512 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Wwe.nc
+Defining dataset : Steady 129
+Defining dataset : Steady 129
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Wwe.nc 129
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Wwe.nc 129
+24 LF rot True 0 722
+24 HF div True 0 722
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.238287 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.291350 , process pid:  227590
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.343957 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.396720 , process pid:  227590
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.449062 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.501319 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.554468 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc
+Defining dataset : Steady 128
+Defining dataset : Steady 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.606552 , process pid:  227590
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc
+Defining dataset : Steady 128
+Defining dataset : Steady 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.658103 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc
+Defining dataset : Steady 128
+Defining dataset : Steady 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.709729 , process pid:  227590
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc
+Defining dataset : Steady 128
+Defining dataset : Steady 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.761803 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc
+Defining dataset : Steady 128
+Defining dataset : Steady 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.813364 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc
+Defining dataset : Steady 128
+Defining dataset : Steady 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 128
+20 LF rot True 0 722
+20 HF div True 0 722
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.864809 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.915951 , process pid:  227590
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:46.968013 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:47.018999 , process pid:  227590
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:47.069886 , process pid:  227590
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc 128
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:16:47.120898 , process pid:  227590
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc
+Defining dataset : Stochastic 128
+Defining dataset : Stochastic 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc 128
+Vertical Flux calc u 0-722, try_num 0 ...
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_128.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_128.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_128.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_128.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_128.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_128.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc, 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:30:59.751130 , process pid:  226685
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc
+Defining dataset : Steady 128
+Defining dataset : Steady 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc 128
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc, 128
+
+open files depth: 128 [117-129]
+2021-09-18 19:59:37.432151 , process pid:  226685
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc
+Defining dataset : Steady 128
+Defining dataset : Steady 128
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc 128
+Horizontal Flux calc u 0-722, try_num 0 ...

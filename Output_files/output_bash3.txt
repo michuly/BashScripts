@@ -1,0 +1,18 @@
+HELLO WORLD
+NETCDF: 16 Stochastic
+/analysis/michalshaham/BashScripts/Output_files/output_netcdf6.txt
+/atlantic/michalshaham/Data/Helmholtz/Stochastic/fw16/*.nc
+DONE NETCDF: 16 Stochastic
+NETCDF: 16 Steady
+/analysis/michalshaham/BashScripts/Output_files/output_netcdf7.txt
+/atlantic/michalshaham/Data/Helmholtz/Steady/fw16/*.nc
+DONE NETCDF: 16 Steady
+NETCDF: 16 Stochastic
+/analysis/michalshaham/BashScripts/Output_files/output_netcdf8.txt
+/atlantic/michalshaham/Data/Helmholtz/Stochastic/fw16/*.nc
+DONE NETCDF: 16 Stochastic
+NETCDF: 16 Steady
+/analysis/michalshaham/BashScripts/Output_files/output_netcdf9.txt
+/atlantic/michalshaham/Data/Helmholtz/Steady/fw16/*.nc
+DONE NETCDF: 16 Steady
+BYE BYE

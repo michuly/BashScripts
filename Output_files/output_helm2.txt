@@ -1,0 +1,4218 @@
+START RUNNING: DEPTHS 65-129
+
+open files depth: 129 [65-129]
+2021-09-11 01:42:29.287108 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 129
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_129.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_129.nc u
+
+open files depth: 129 [65-129]
+2021-09-11 01:42:39.783117 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 129
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_129.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_129.nc u
+
+open files depth: 129 [65-129]
+2021-09-11 01:42:51.426596 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 129
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_129.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_129.nc u
+
+open files depth: 129 [65-129]
+2021-09-11 01:43:10.177509 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 129
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_129.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_129.nc u
+
+open files depth: 128 [65-129]
+2021-09-11 01:43:25.681119 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 128
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_128.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_128.nc u
+
+open files depth: 128 [65-129]
+2021-09-11 01:43:42.567713 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 128
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc u
+
+open files depth: 128 [65-129]
+2021-09-11 01:43:58.461666 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 128
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_128.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_128.nc u
+
+open files depth: 128 [65-129]
+2021-09-11 01:44:11.593140 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 128
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_128.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_128.nc u
+
+open files depth: 127 [65-129]
+2021-09-11 01:44:26.619359 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 127
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_127.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_127.nc u
+
+open files depth: 127 [65-129]
+2021-09-11 01:44:42.343581 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 127
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_127.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_127.nc u
+
+open files depth: 127 [65-129]
+2021-09-11 01:45:00.187202 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 127
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_127.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_127.nc u
+
+open files depth: 127 [65-129]
+2021-09-11 01:45:14.749072 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 127
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_127.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_127.nc u
+
+open files depth: 126 [65-129]
+2021-09-11 01:45:27.362397 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 126
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_126.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_126.nc u
+
+open files depth: 126 [65-129]
+2021-09-11 01:45:41.228663 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 126
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_126.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_126.nc u
+
+open files depth: 126 [65-129]
+2021-09-11 01:45:57.972995 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 126
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_126.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_126.nc u
+
+open files depth: 126 [65-129]
+2021-09-11 01:46:13.049633 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 126
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_126.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_126.nc u
+
+open files depth: 125 [65-129]
+2021-09-11 01:46:29.904950 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 125
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_125.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_125.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_125.nc, v
+
+open files depth: 125 [65-129]
+2021-09-11 01:49:37.683728 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 125
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_125.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_125.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_125.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_125.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_125.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_125.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_125.nc, v
+
+open files depth: 125 [65-129]
+2021-09-11 01:54:28.769334 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 125
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_125.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_125.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_125.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_125.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_125.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_125.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_125.nc, v
+
+open files depth: 125 [65-129]
+2021-09-11 01:57:13.330789 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 125
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_125.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_125.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_125.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_125.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_125.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_125.nc
+(722, 513, 512) 0 721
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_125.nc
+(722, 513, 512) 0 721
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_125.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_125.nc, v
+
+open files depth: 124 [65-129]
+2021-09-11 02:02:07.468159 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 124
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_124.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_124.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_124.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_124.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_124.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_124.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_124.nc, v
+
+open files depth: 124 [65-129]
+2021-09-11 02:04:50.451046 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 124
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_124.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_124.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_124.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_124.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_124.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_124.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_124.nc, v
+
+open files depth: 124 [65-129]
+2021-09-11 02:10:43.866775 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 124
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_124.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_124.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_124.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_124.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_124.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_124.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_124.nc, v
+
+open files depth: 124 [65-129]
+2021-09-11 02:13:22.495059 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 124
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_124.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_124.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_124.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_124.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_124.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_124.nc
+(722, 513, 512) 0 721
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_124.nc
+(722, 513, 512) 0 721
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_124.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_124.nc, v
+
+open files depth: 123 [65-129]
+2021-09-11 02:18:17.516088 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 123
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_123.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_123.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_123.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_123.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_123.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_123.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_123.nc, v
+
+open files depth: 123 [65-129]
+2021-09-11 02:21:06.690552 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 123
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_123.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_123.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_123.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_123.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_123.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_123.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_123.nc, v
+
+open files depth: 123 [65-129]
+2021-09-11 02:26:51.757137 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 123
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_123.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_123.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_123.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_123.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_123.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_123.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_123.nc, v
+
+open files depth: 123 [65-129]
+2021-09-11 02:30:08.380194 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 123
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_123.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_123.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_123.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_123.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_123.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_123.nc
+(722, 513, 512) 0 721
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_123.nc
+(722, 513, 512) 0 721
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_123.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_123.nc, v
+
+open files depth: 122 [65-129]
+2021-09-11 02:35:39.273599 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 122
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_122.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_122.nc u
+
+open files depth: 122 [65-129]
+2021-09-11 02:35:49.229283 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 122
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_122.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_122.nc u
+
+open files depth: 122 [65-129]
+2021-09-11 02:36:00.606547 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 122
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_122.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_122.nc u
+
+open files depth: 122 [65-129]
+2021-09-11 02:36:15.034064 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 122
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_122.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_122.nc u
+
+open files depth: 121 [65-129]
+2021-09-11 02:36:28.047146 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 121
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_121.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_121.nc u
+
+open files depth: 121 [65-129]
+2021-09-11 02:36:41.352715 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 121
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_121.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_121.nc u
+
+open files depth: 121 [65-129]
+2021-09-11 02:36:55.093175 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 121
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_121.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_121.nc u
+
+open files depth: 121 [65-129]
+2021-09-11 02:37:09.600638 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 121
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_121.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_121.nc u
+
+open files depth: 120 [65-129]
+2021-09-11 02:37:23.447374 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 120
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_120.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_120.nc u
+
+open files depth: 120 [65-129]
+2021-09-11 02:37:36.652636 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 120
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_120.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_120.nc u
+
+open files depth: 120 [65-129]
+2021-09-11 02:37:53.859763 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 120
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_120.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_120.nc u
+
+open files depth: 120 [65-129]
+2021-09-11 02:38:13.064239 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 120
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_120.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_120.nc u
+
+open files depth: 119 [65-129]
+2021-09-11 02:38:25.530947 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 119
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_119.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_119.nc u
+
+open files depth: 119 [65-129]
+2021-09-11 02:38:40.710234 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 119
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_119.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_119.nc u
+
+open files depth: 119 [65-129]
+2021-09-11 02:38:54.653374 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 119
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_119.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_119.nc u
+
+open files depth: 119 [65-129]
+2021-09-11 02:39:06.665535 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 119
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_119.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_119.nc u
+
+open files depth: 118 [65-129]
+2021-09-11 02:39:20.840869 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 118
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_118.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_118.nc u
+
+open files depth: 118 [65-129]
+2021-09-11 02:39:30.787140 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 118
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_118.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_118.nc u
+
+open files depth: 118 [65-129]
+2021-09-11 02:39:41.591563 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 118
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_118.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_118.nc u
+
+open files depth: 118 [65-129]
+2021-09-11 02:39:57.277065 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 118
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_118.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_118.nc u
+
+open files depth: 117 [65-129]
+2021-09-11 02:40:10.312362 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 117
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_117.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_117.nc u
+
+open files depth: 117 [65-129]
+2021-09-11 02:40:24.420733 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 117
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_117.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_117.nc u
+
+open files depth: 117 [65-129]
+2021-09-11 02:40:41.443510 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 117
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_117.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_117.nc u
+
+open files depth: 117 [65-129]
+2021-09-11 02:40:56.351083 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 117
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_117.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_117.nc u
+
+open files depth: 116 [65-129]
+2021-09-11 02:41:15.755510 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 116
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_116.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_116.nc u
+
+open files depth: 116 [65-129]
+2021-09-11 02:41:28.755194 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 116
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_116.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_116.nc u
+
+open files depth: 116 [65-129]
+2021-09-11 02:41:43.455459 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 116
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_116.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_116.nc u
+
+open files depth: 116 [65-129]
+2021-09-11 02:41:59.645271 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 116
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_116.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_116.nc u
+
+open files depth: 115 [65-129]
+2021-09-11 02:42:15.688333 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 115
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_115.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_115.nc u
+
+open files depth: 115 [65-129]
+2021-09-11 02:42:34.791558 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 115
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_115.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_115.nc u
+
+open files depth: 115 [65-129]
+2021-09-11 02:42:48.970028 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 115
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_115.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_115.nc u
+
+open files depth: 115 [65-129]
+2021-09-11 02:42:56.522351 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 115
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_115.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_115.nc u
+
+open files depth: 114 [65-129]
+2021-09-11 02:43:07.141502 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 114
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_114.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_114.nc u
+
+open files depth: 114 [65-129]
+2021-09-11 02:43:18.081154 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 114
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_114.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_114.nc u
+
+open files depth: 114 [65-129]
+2021-09-11 02:43:28.250739 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 114
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_114.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_114.nc u
+
+open files depth: 114 [65-129]
+2021-09-11 02:43:39.936220 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 114
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_114.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_114.nc u
+
+open files depth: 113 [65-129]
+2021-09-11 02:43:51.373753 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 113
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_113.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_113.nc u
+
+open files depth: 113 [65-129]
+2021-09-11 02:44:01.879406 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 113
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_113.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_113.nc u
+
+open files depth: 113 [65-129]
+2021-09-11 02:44:19.358991 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 113
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_113.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_113.nc u
+
+open files depth: 113 [65-129]
+2021-09-11 02:44:34.509876 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 113
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_113.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_113.nc u
+
+open files depth: 112 [65-129]
+2021-09-11 02:44:48.939629 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 112
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_112.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_112.nc u
+
+open files depth: 112 [65-129]
+2021-09-11 02:45:02.907408 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 112
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_112.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_112.nc u
+
+open files depth: 112 [65-129]
+2021-09-11 02:45:14.941737 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 112
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_112.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_112.nc u
+
+open files depth: 112 [65-129]
+2021-09-11 02:45:30.142729 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 112
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_112.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_112.nc u
+
+open files depth: 111 [65-129]
+2021-09-11 02:45:44.503876 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 111
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_111.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_111.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_111.nc, v
+
+open files depth: 111 [65-129]
+2021-09-11 02:48:36.919494 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 111
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_111.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_111.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_111.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_111.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_111.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_111.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_111.nc, v
+
+open files depth: 111 [65-129]
+2021-09-11 02:53:44.629101 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 111
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_111.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_111.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_111.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_111.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_111.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_111.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_111.nc, v
+
+open files depth: 111 [65-129]
+2021-09-11 02:56:38.066220 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 111
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_111.nc
+Creating NCfile /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_111.nc
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_111.nc, t
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_111.nc, y
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_111.nc, x
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_111.nc
+(722, 513, 512) 0 721
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_111.nc
+(722, 513, 512) 0 721
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_111.nc, u
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_111.nc, v
+
+open files depth: 110 [65-129]
+2021-09-11 03:02:13.476740 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 110
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_110.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_110.nc u
+
+open files depth: 110 [65-129]
+2021-09-11 03:02:32.972137 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 110
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_110.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_110.nc u
+
+open files depth: 110 [65-129]
+2021-09-11 03:02:51.262875 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 110
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_110.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_110.nc u
+
+open files depth: 110 [65-129]
+2021-09-11 03:03:07.825950 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 110
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_110.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_110.nc u
+
+open files depth: 109 [65-129]
+2021-09-11 03:03:23.247918 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 109
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_109.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_109.nc u
+
+open files depth: 109 [65-129]
+2021-09-11 03:03:42.374651 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 109
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_109.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_109.nc u
+
+open files depth: 109 [65-129]
+2021-09-11 03:03:58.527525 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 109
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_109.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_109.nc u
+
+open files depth: 109 [65-129]
+2021-09-11 03:04:12.300709 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 109
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_109.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_109.nc u
+
+open files depth: 108 [65-129]
+2021-09-11 03:04:27.318433 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 108
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_108.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_108.nc u
+
+open files depth: 108 [65-129]
+2021-09-11 03:04:39.771098 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 108
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_108.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_108.nc u
+
+open files depth: 108 [65-129]
+2021-09-11 03:04:52.634097 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 108
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_108.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_108.nc u
+
+open files depth: 108 [65-129]
+2021-09-11 03:05:06.069392 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 108
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_108.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_108.nc u
+
+open files depth: 107 [65-129]
+2021-09-11 03:05:21.965068 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 107
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_107.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_107.nc u
+
+open files depth: 107 [65-129]
+2021-09-11 03:05:40.172343 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 107
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_107.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_107.nc u
+
+open files depth: 107 [65-129]
+2021-09-11 03:05:57.573884 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 107
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_107.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_107.nc u
+
+open files depth: 107 [65-129]
+2021-09-11 03:06:14.475532 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 107
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_107.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_107.nc u
+
+open files depth: 106 [65-129]
+2021-09-11 03:06:37.362774 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 106
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_106.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_106.nc u
+
+open files depth: 106 [65-129]
+2021-09-11 03:06:56.029677 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 106
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_106.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_106.nc u
+
+open files depth: 106 [65-129]
+2021-09-11 03:07:14.222302 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 106
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_106.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_106.nc u
+
+open files depth: 106 [65-129]
+2021-09-11 03:07:35.953414 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 106
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_106.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_106.nc u
+
+open files depth: 105 [65-129]
+2021-09-11 03:07:52.830445 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 105
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_105.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_105.nc u
+
+open files depth: 105 [65-129]
+2021-09-11 03:08:09.271665 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 105
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_105.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_105.nc u
+
+open files depth: 105 [65-129]
+2021-09-11 03:08:25.935627 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 105
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_105.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_105.nc u
+
+open files depth: 105 [65-129]
+2021-09-11 03:08:41.831804 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 105
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_105.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_105.nc u
+
+open files depth: 104 [65-129]
+2021-09-11 03:08:59.624170 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 104
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_104.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_104.nc u
+
+open files depth: 104 [65-129]
+2021-09-11 03:09:19.215417 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 104
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_104.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_104.nc u
+
+open files depth: 104 [65-129]
+2021-09-11 03:09:41.814423 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 104
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_104.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_104.nc u
+
+open files depth: 104 [65-129]
+2021-09-11 03:10:00.360924 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 104
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_104.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_104.nc u
+
+open files depth: 103 [65-129]
+2021-09-11 03:10:15.061932 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 103
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_103.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_103.nc u
+
+open files depth: 103 [65-129]
+2021-09-11 03:10:30.265936 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 103
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_103.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_103.nc u
+
+open files depth: 103 [65-129]
+2021-09-11 03:10:43.710068 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 103
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_103.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_103.nc u
+
+open files depth: 103 [65-129]
+2021-09-11 03:11:01.027898 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 103
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_103.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_103.nc u
+
+open files depth: 102 [65-129]
+2021-09-11 03:11:13.927941 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 102
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_102.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_102.nc u
+
+open files depth: 102 [65-129]
+2021-09-11 03:11:33.092378 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 102
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_102.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_102.nc u
+
+open files depth: 102 [65-129]
+2021-09-11 03:11:48.936677 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 102
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_102.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_102.nc u
+
+open files depth: 102 [65-129]
+2021-09-11 03:12:04.572179 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 102
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_102.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_102.nc u
+
+open files depth: 101 [65-129]
+2021-09-11 03:12:20.378609 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 101
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_101.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_101.nc u
+
+open files depth: 101 [65-129]
+2021-09-11 03:12:40.021738 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 101
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_101.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_101.nc u
+
+open files depth: 101 [65-129]
+2021-09-11 03:12:57.802129 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 101
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_101.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_101.nc u
+
+open files depth: 101 [65-129]
+2021-09-11 03:13:14.627583 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 101
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_101.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_101.nc u
+
+open files depth: 100 [65-129]
+2021-09-11 03:13:40.179360 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 100
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_100.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_100.nc u
+
+open files depth: 100 [65-129]
+2021-09-11 03:13:59.463475 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 100
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_100.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_100.nc u
+
+open files depth: 100 [65-129]
+2021-09-11 03:14:14.831780 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 100
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_100.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_100.nc u
+
+open files depth: 100 [65-129]
+2021-09-11 03:14:29.418505 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 100
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_100.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_100.nc u
+
+open files depth: 99 [65-129]
+2021-09-11 03:14:44.832660 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 99
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_099.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_099.nc u
+
+open files depth: 99 [65-129]
+2021-09-11 03:14:57.109318 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 99
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_099.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_099.nc u
+
+open files depth: 99 [65-129]
+2021-09-11 03:15:10.558279 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 99
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_099.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_099.nc u
+
+open files depth: 99 [65-129]
+2021-09-11 03:15:26.898454 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 99
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_099.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_099.nc u
+
+open files depth: 98 [65-129]
+2021-09-11 03:15:44.501671 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 98
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_098.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_098.nc u
+
+open files depth: 98 [65-129]
+2021-09-11 03:16:02.563213 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 98
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_098.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_098.nc u
+
+open files depth: 98 [65-129]
+2021-09-11 03:16:18.501576 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 98
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_098.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_098.nc u
+
+open files depth: 98 [65-129]
+2021-09-11 03:16:35.154144 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 98
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_098.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_098.nc u
+
+open files depth: 97 [65-129]
+2021-09-11 03:16:49.454841 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 97
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_097.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_097.nc u
+
+open files depth: 97 [65-129]
+2021-09-11 03:17:05.900850 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 97
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_097.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_097.nc u
+
+open files depth: 97 [65-129]
+2021-09-11 03:17:23.123044 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 97
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_097.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_097.nc u
+
+open files depth: 97 [65-129]
+2021-09-11 03:17:40.855134 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 97
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_097.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_097.nc u
+
+open files depth: 96 [65-129]
+2021-09-11 03:17:57.322403 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 96
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_096.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_096.nc u
+
+open files depth: 96 [65-129]
+2021-09-11 03:18:07.010058 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 96
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_096.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_096.nc u
+
+open files depth: 96 [65-129]
+2021-09-11 03:18:19.886878 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 96
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_096.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_096.nc u
+
+open files depth: 96 [65-129]
+2021-09-11 03:18:33.471745 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 96
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_096.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_096.nc u
+
+open files depth: 95 [65-129]
+2021-09-11 03:18:50.457025 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 95
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_095.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_095.nc u
+
+open files depth: 95 [65-129]
+2021-09-11 03:19:04.206936 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 95
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_095.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_095.nc u
+
+open files depth: 95 [65-129]
+2021-09-11 03:19:21.486605 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 95
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_095.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_095.nc u
+
+open files depth: 95 [65-129]
+2021-09-11 03:19:35.880303 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 95
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_095.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_095.nc u
+
+open files depth: 94 [65-129]
+2021-09-11 03:19:49.723999 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 94
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_094.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_094.nc u
+
+open files depth: 94 [65-129]
+2021-09-11 03:20:02.118523 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 94
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_094.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_094.nc u
+
+open files depth: 94 [65-129]
+2021-09-11 03:20:20.818130 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 94
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_094.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_094.nc u
+
+open files depth: 94 [65-129]
+2021-09-11 03:20:36.023348 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 94
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_094.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_094.nc u
+
+open files depth: 93 [65-129]
+2021-09-11 03:20:49.195228 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 93
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_093.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_093.nc u
+
+open files depth: 93 [65-129]
+2021-09-11 03:21:00.359347 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 93
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_093.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_093.nc u
+
+open files depth: 93 [65-129]
+2021-09-11 03:21:12.052860 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 93
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_093.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_093.nc u
+
+open files depth: 93 [65-129]
+2021-09-11 03:21:27.542655 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 93
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_093.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_093.nc u
+
+open files depth: 92 [65-129]
+2021-09-11 03:21:45.352304 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 92
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_092.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_092.nc u
+
+open files depth: 92 [65-129]
+2021-09-11 03:21:58.615104 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 92
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_092.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_092.nc u
+
+open files depth: 92 [65-129]
+2021-09-11 03:22:12.378016 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 92
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_092.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_092.nc u
+
+open files depth: 92 [65-129]
+2021-09-11 03:22:29.261708 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 92
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_092.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_092.nc u
+
+open files depth: 91 [65-129]
+2021-09-11 03:22:48.884805 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 91
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_091.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_091.nc u
+
+open files depth: 91 [65-129]
+2021-09-11 03:23:05.959476 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 91
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_091.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_091.nc u
+
+open files depth: 91 [65-129]
+2021-09-11 03:23:24.102242 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 91
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_091.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_091.nc u
+
+open files depth: 91 [65-129]
+2021-09-11 03:23:40.711601 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 91
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_091.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_091.nc u
+
+open files depth: 90 [65-129]
+2021-09-11 03:23:59.807266 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 90
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_090.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_090.nc u
+
+open files depth: 90 [65-129]
+2021-09-11 03:24:13.771829 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 90
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_090.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_090.nc u
+
+open files depth: 90 [65-129]
+2021-09-11 03:24:26.498761 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 90
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_090.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_090.nc u
+
+open files depth: 90 [65-129]
+2021-09-11 03:24:38.030133 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 90
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_090.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_090.nc u
+
+open files depth: 89 [65-129]
+2021-09-11 03:24:53.631086 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 89
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_089.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_089.nc u
+
+open files depth: 89 [65-129]
+2021-09-11 03:25:08.606499 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 89
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_089.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_089.nc u
+
+open files depth: 89 [65-129]
+2021-09-11 03:25:23.886623 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 89
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_089.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_089.nc u
+
+open files depth: 89 [65-129]
+2021-09-11 03:25:37.975759 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 89
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_089.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_089.nc u
+
+open files depth: 88 [65-129]
+2021-09-11 03:25:52.145835 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 88
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_088.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_088.nc u
+
+open files depth: 88 [65-129]
+2021-09-11 03:26:07.565613 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 88
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_088.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_088.nc u
+
+open files depth: 88 [65-129]
+2021-09-11 03:26:22.851691 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 88
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_088.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_088.nc u
+
+open files depth: 88 [65-129]
+2021-09-11 03:26:34.066506 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 88
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_088.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_088.nc u
+
+open files depth: 87 [65-129]
+2021-09-11 03:26:48.156561 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 87
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_087.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_087.nc u
+
+open files depth: 87 [65-129]
+2021-09-11 03:27:04.004989 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 87
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_087.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_087.nc u
+
+open files depth: 87 [65-129]
+2021-09-11 03:27:19.923688 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 87
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_087.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_087.nc u
+
+open files depth: 87 [65-129]
+2021-09-11 03:27:34.460732 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 87
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_087.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_087.nc u
+
+open files depth: 86 [65-129]
+2021-09-11 03:27:48.790424 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 86
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_086.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_086.nc u
+
+open files depth: 86 [65-129]
+2021-09-11 03:28:08.239756 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 86
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_086.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_086.nc u
+
+open files depth: 86 [65-129]
+2021-09-11 03:28:24.488503 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 86
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_086.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_086.nc u
+
+open files depth: 86 [65-129]
+2021-09-11 03:28:39.361180 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 86
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_086.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_086.nc u
+
+open files depth: 85 [65-129]
+2021-09-11 03:28:54.616265 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 85
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_085.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_085.nc u
+
+open files depth: 85 [65-129]
+2021-09-11 03:29:13.007409 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 85
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_085.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_085.nc u
+
+open files depth: 85 [65-129]
+2021-09-11 03:29:31.292337 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 85
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_085.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_085.nc u
+
+open files depth: 85 [65-129]
+2021-09-11 03:29:48.692518 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 85
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_085.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_085.nc u
+
+open files depth: 84 [65-129]
+2021-09-11 03:30:06.168219 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 84
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_084.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_084.nc u
+
+open files depth: 84 [65-129]
+2021-09-11 03:30:22.582898 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 84
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_084.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_084.nc u
+
+open files depth: 84 [65-129]
+2021-09-11 03:30:39.839353 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 84
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_084.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_084.nc u
+
+open files depth: 84 [65-129]
+2021-09-11 03:30:59.032894 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 84
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_084.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_084.nc u
+
+open files depth: 83 [65-129]
+2021-09-11 03:31:15.866592 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 83
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_083.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_083.nc u
+
+open files depth: 83 [65-129]
+2021-09-11 03:31:32.440569 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 83
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_083.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_083.nc u
+
+open files depth: 83 [65-129]
+2021-09-11 03:31:47.399985 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 83
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_083.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_083.nc u
+
+open files depth: 83 [65-129]
+2021-09-11 03:32:03.478182 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 83
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_083.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_083.nc u
+
+open files depth: 82 [65-129]
+2021-09-11 03:32:20.294915 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 82
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_082.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_082.nc u
+
+open files depth: 82 [65-129]
+2021-09-11 03:32:37.114271 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 82
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_082.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_082.nc u
+
+open files depth: 82 [65-129]
+2021-09-11 03:32:52.137260 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 82
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_082.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_082.nc u
+
+open files depth: 82 [65-129]
+2021-09-11 03:33:06.694400 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 82
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_082.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_082.nc u
+
+open files depth: 81 [65-129]
+2021-09-11 03:33:22.545986 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 81
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_081.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_081.nc u
+
+open files depth: 81 [65-129]
+2021-09-11 03:33:38.489944 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 81
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_081.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_081.nc u
+
+open files depth: 81 [65-129]
+2021-09-11 03:33:56.092578 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 81
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_081.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_081.nc u
+
+open files depth: 81 [65-129]
+2021-09-11 03:34:10.017892 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 81
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_081.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_081.nc u
+
+open files depth: 80 [65-129]
+2021-09-11 03:34:23.157701 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 80
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_080.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_080.nc u
+
+open files depth: 80 [65-129]
+2021-09-11 03:34:39.914766 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 80
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_080.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_080.nc u
+
+open files depth: 80 [65-129]
+2021-09-11 03:34:56.775566 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 80
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_080.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_080.nc u
+
+open files depth: 80 [65-129]
+2021-09-11 03:35:13.551291 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 80
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_080.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_080.nc u
+
+open files depth: 79 [65-129]
+2021-09-11 03:35:30.631950 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 79
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_079.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_079.nc u
+
+open files depth: 79 [65-129]
+2021-09-11 03:35:45.360713 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 79
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_079.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_079.nc u
+
+open files depth: 79 [65-129]
+2021-09-11 03:36:02.539987 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 79
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_079.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_079.nc u
+
+open files depth: 79 [65-129]
+2021-09-11 03:36:19.725381 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 79
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_079.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_079.nc u
+
+open files depth: 78 [65-129]
+2021-09-11 03:36:38.776476 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 78
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_078.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_078.nc u
+
+open files depth: 78 [65-129]
+2021-09-11 03:36:56.633288 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 78
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_078.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_078.nc u
+
+open files depth: 78 [65-129]
+2021-09-11 03:37:15.382608 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 78
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_078.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_078.nc u
+
+open files depth: 78 [65-129]
+2021-09-11 03:37:33.421698 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 78
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_078.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_078.nc u
+
+open files depth: 77 [65-129]
+2021-09-11 03:37:48.783023 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 77
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc u
+
+open files depth: 77 [65-129]
+2021-09-11 03:38:06.342980 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 77
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc u
+
+open files depth: 76 [65-129]
+2021-09-11 03:38:22.240654 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 76
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc u
+
+open files depth: 76 [65-129]
+2021-09-11 03:38:37.257634 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 76
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc u
+
+open files depth: 76 [65-129]
+2021-09-11 03:38:55.112274 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 76
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc u
+
+open files depth: 76 [65-129]
+2021-09-11 03:39:10.092404 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 76
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc u
+
+open files depth: 75 [65-129]
+2021-09-11 03:39:27.914552 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 75
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_075.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_075.nc u
+
+open files depth: 75 [65-129]
+2021-09-11 03:39:45.791205 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 75
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_075.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_075.nc u
+
+open files depth: 75 [65-129]
+2021-09-11 03:40:00.803938 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 75
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_075.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_075.nc u
+
+open files depth: 75 [65-129]
+2021-09-11 03:40:15.738282 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 75
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_075.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_075.nc u
+
+open files depth: 74 [65-129]
+2021-09-11 03:40:30.034216 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 74
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_074.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_074.nc u
+
+open files depth: 74 [65-129]
+2021-09-11 03:40:45.422570 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 74
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_074.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_074.nc u
+
+open files depth: 74 [65-129]
+2021-09-11 03:41:01.300308 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 74
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_074.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_074.nc u
+
+open files depth: 74 [65-129]
+2021-09-11 03:41:17.202257 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 74
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_074.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_074.nc u
+
+open files depth: 73 [65-129]
+2021-09-11 03:41:30.682574 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 73
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_073.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_073.nc u
+
+open files depth: 73 [65-129]
+2021-09-11 03:41:40.915958 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 73
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_073.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_073.nc u
+
+open files depth: 73 [65-129]
+2021-09-11 03:41:55.714399 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 73
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_073.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_073.nc u
+
+open files depth: 73 [65-129]
+2021-09-11 03:42:07.145669 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 73
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_073.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_073.nc u
+
+open files depth: 72 [65-129]
+2021-09-11 03:42:14.988487 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 72
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_072.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_072.nc u
+
+open files depth: 72 [65-129]
+2021-09-11 03:42:22.189985 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 72
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_072.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_072.nc u
+
+open files depth: 72 [65-129]
+2021-09-11 03:42:26.157514 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 72
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_072.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_072.nc u
+
+open files depth: 72 [65-129]
+2021-09-11 03:42:28.663648 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 72
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_072.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_072.nc u
+
+open files depth: 71 [65-129]
+2021-09-11 03:42:36.072197 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 71
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_071.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_071.nc u
+
+open files depth: 71 [65-129]
+2021-09-11 03:42:48.879608 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 71
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_071.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_071.nc u
+
+open files depth: 71 [65-129]
+2021-09-11 03:43:05.510333 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 71
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_071.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_071.nc u
+
+open files depth: 71 [65-129]
+2021-09-11 03:43:20.638414 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 71
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_071.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_071.nc u
+
+open files depth: 70 [65-129]
+2021-09-11 03:43:36.408998 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 70
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_070.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_070.nc u
+
+open files depth: 70 [65-129]
+2021-09-11 03:43:53.531327 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 70
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_070.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_070.nc u
+
+open files depth: 70 [65-129]
+2021-09-11 03:44:10.437582 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 70
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_070.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_070.nc u
+
+open files depth: 70 [65-129]
+2021-09-11 03:44:26.636938 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 70
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_070.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_070.nc u
+
+open files depth: 69 [65-129]
+2021-09-11 03:44:43.686209 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 69
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_069.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_069.nc u
+
+open files depth: 69 [65-129]
+2021-09-11 03:45:01.390826 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 69
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_069.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_069.nc u
+
+open files depth: 69 [65-129]
+2021-09-11 03:45:18.533690 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 69
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_069.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_069.nc u
+
+open files depth: 69 [65-129]
+2021-09-11 03:45:33.203511 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 69
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_069.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_069.nc u
+
+open files depth: 68 [65-129]
+2021-09-11 03:45:50.674227 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 68
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_068.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_068.nc u
+
+open files depth: 68 [65-129]
+2021-09-11 03:46:07.947045 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 68
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_068.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_068.nc u
+
+open files depth: 68 [65-129]
+2021-09-11 03:46:21.564288 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 68
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_068.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_068.nc u
+
+open files depth: 68 [65-129]
+2021-09-11 03:46:35.750373 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 68
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_068.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_068.nc u
+
+open files depth: 67 [65-129]
+2021-09-11 03:46:55.712469 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 67
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_067.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_067.nc u
+
+open files depth: 67 [65-129]
+2021-09-11 03:47:13.212983 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 67
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_067.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_067.nc u
+
+open files depth: 67 [65-129]
+2021-09-11 03:47:29.649938 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 67
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_067.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_067.nc u
+
+open files depth: 67 [65-129]
+2021-09-11 03:47:42.382718 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 67
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_067.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_067.nc u
+
+open files depth: 66 [65-129]
+2021-09-11 03:47:56.810841 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 66
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_066.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_066.nc u
+
+open files depth: 66 [65-129]
+2021-09-11 03:48:07.152521 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 66
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_066.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_066.nc u
+
+open files depth: 66 [65-129]
+2021-09-11 03:48:18.025225 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 66
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_066.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_066.nc u
+
+open files depth: 66 [65-129]
+2021-09-11 03:48:33.086032 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 66
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_066.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_066.nc u
+
+open files depth: 65 [65-129]
+2021-09-11 03:48:46.206298 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 65
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_065.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_065.nc u
+
+open files depth: 65 [65-129]
+2021-09-11 03:49:02.769621 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 65
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_065.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_065.nc u
+
+open files depth: 65 [65-129]
+2021-09-11 03:49:18.200382 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 65
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_065.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_065.nc u
+
+open files depth: 65 [65-129]
+2021-09-11 03:49:34.617065 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 65
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_065.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_065.nc u
+
+open files depth: 129 [65-129]
+2021-09-11 03:49:49.240085 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 129
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_129.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_129.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_129.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_129.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_129.nc, dvz
+
+open files depth: 129 [65-129]
+2021-09-11 03:53:36.045841 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 129
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_129.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__129.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_129.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__129.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_129.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_129.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_129.nc, dvz
+
+open files depth: 129 [65-129]
+2021-09-11 04:00:24.838373 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 129
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_129.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_129.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_129.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_129.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_129.nc, dvz
+
+open files depth: 129 [65-129]
+2021-09-11 04:03:50.927749 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 129
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_129.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_129.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_129.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_129.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_129.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_129.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_129.nc, dvz
+
+open files depth: 128 [65-129]
+2021-09-11 04:10:02.022277 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 128
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_128.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_128.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_128.nc, dvz
+
+open files depth: 128 [65-129]
+2021-09-11 04:13:42.674011 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 128
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__128.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__128.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_128.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_128.nc, dvz
+
+open files depth: 128 [65-129]
+2021-09-11 04:20:31.481844 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 128
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_128.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_128.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_128.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_128.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_128.nc, dvz
+
+open files depth: 128 [65-129]
+2021-09-11 04:24:05.060834 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 128
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_128.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_128.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_128.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_128.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_128.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_128.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_128.nc, dvz
+
+open files depth: 127 [65-129]
+2021-09-11 04:30:50.775466 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 127
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_127.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_127.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_127.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_127.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_127.nc, dvz
+
+open files depth: 127 [65-129]
+2021-09-11 04:34:36.339815 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 127
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_127.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__127.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_127.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__127.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_127.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_127.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_127.nc, dvz
+
+open files depth: 127 [65-129]
+2021-09-11 04:40:46.494337 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 127
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_127.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_127.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_127.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_127.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_127.nc, dvz
+
+open files depth: 127 [65-129]
+2021-09-11 04:44:15.958578 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 127
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_127.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_127.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_127.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_127.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_127.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_127.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_127.nc, dvz
+
+open files depth: 126 [65-129]
+2021-09-11 04:50:46.640998 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 126
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_126.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_126.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_126.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_126.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_126.nc, dvz
+
+open files depth: 126 [65-129]
+2021-09-11 04:54:16.857563 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 126
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_126.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__126.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_126.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__126.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_126.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_126.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_126.nc, dvz
+
+open files depth: 126 [65-129]
+2021-09-11 05:00:54.754441 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 126
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_126.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_126.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_126.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_126.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_126.nc, dvz
+
+open files depth: 126 [65-129]
+2021-09-11 05:04:46.329616 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 126
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_126.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_126.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_126.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_126.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_126.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_126.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_126.nc, dvz
+
+open files depth: 125 [65-129]
+2021-09-11 05:11:39.611094 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 125
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_125.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_125.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_125.nc, dvz
+
+open files depth: 125 [65-129]
+2021-09-11 05:15:11.460414 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 125
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_125.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_125.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_125.nc, dvz
+
+open files depth: 125 [65-129]
+2021-09-11 05:21:47.543350 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 125
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_125.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_125.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_125.nc, dvz
+
+open files depth: 125 [65-129]
+2021-09-11 05:25:22.436421 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 125
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_125.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_125.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_125.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_125.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_125.nc, dvz
+
+open files depth: 124 [65-129]
+2021-09-11 05:31:48.330076 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 124
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_124.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_124.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_124.nc, dvz
+
+open files depth: 124 [65-129]
+2021-09-11 05:35:27.332303 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 124
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_124.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_124.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_124.nc, dvz
+
+open files depth: 124 [65-129]
+2021-09-11 05:42:05.422100 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 124
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_124.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_124.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_124.nc, dvz
+
+open files depth: 124 [65-129]
+2021-09-11 05:45:42.766642 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 124
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_124.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_124.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_124.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_124.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_124.nc, dvz
+
+open files depth: 123 [65-129]
+2021-09-11 05:51:57.905839 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 123
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_123.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_123.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_123.nc, dvz
+
+open files depth: 123 [65-129]
+2021-09-11 05:55:24.369494 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 123
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_123.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_123.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_123.nc, dvz
+
+open files depth: 123 [65-129]
+2021-09-11 06:02:32.196454 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 123
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_123.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_123.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_123.nc, dvz
+
+open files depth: 123 [65-129]
+2021-09-11 06:06:07.436000 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 123
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_123.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_123.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_123.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_123.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_123.nc, dvz
+
+open files depth: 122 [65-129]
+2021-09-11 06:12:12.362933 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 122
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_122.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_122.nc duz
+
+open files depth: 122 [65-129]
+2021-09-11 06:12:30.024153 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 122
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_122.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_122.nc duz
+
+open files depth: 122 [65-129]
+2021-09-11 06:12:44.998341 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 122
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_122.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_122.nc duz
+
+open files depth: 122 [65-129]
+2021-09-11 06:13:03.102084 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 122
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_122.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_122.nc duz
+
+open files depth: 121 [65-129]
+2021-09-11 06:13:17.543638 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 121
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_121.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_121.nc duz
+
+open files depth: 121 [65-129]
+2021-09-11 06:13:30.738713 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 121
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_121.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_121.nc duz
+
+open files depth: 121 [65-129]
+2021-09-11 06:13:44.595150 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 121
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_121.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_121.nc duz
+
+open files depth: 121 [65-129]
+2021-09-11 06:13:58.767898 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 121
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_121.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_121.nc duz
+
+open files depth: 120 [65-129]
+2021-09-11 06:14:13.854551 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 120
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_120.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_120.nc duz
+
+open files depth: 120 [65-129]
+2021-09-11 06:14:29.579533 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 120
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_120.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_120.nc duz
+
+open files depth: 120 [65-129]
+2021-09-11 06:14:44.476355 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 120
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_120.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_120.nc duz
+
+open files depth: 120 [65-129]
+2021-09-11 06:15:00.436442 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 120
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_120.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_120.nc duz
+
+open files depth: 119 [65-129]
+2021-09-11 06:15:17.290368 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 119
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_119.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_119.nc duz
+
+open files depth: 119 [65-129]
+2021-09-11 06:15:33.203516 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 119
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_119.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_119.nc duz
+
+open files depth: 119 [65-129]
+2021-09-11 06:15:47.207704 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 119
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_119.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_119.nc duz
+
+open files depth: 119 [65-129]
+2021-09-11 06:16:01.842515 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 119
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_119.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_119.nc duz
+
+open files depth: 118 [65-129]
+2021-09-11 06:16:16.722264 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 118
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_118.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_118.nc duz
+
+open files depth: 118 [65-129]
+2021-09-11 06:16:32.264537 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 118
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_118.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_118.nc duz
+
+open files depth: 118 [65-129]
+2021-09-11 06:16:46.624781 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 118
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_118.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_118.nc duz
+
+open files depth: 118 [65-129]
+2021-09-11 06:17:01.529484 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 118
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_118.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_118.nc duz
+
+open files depth: 117 [65-129]
+2021-09-11 06:17:12.828880 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 117
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_117.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_117.nc duz
+
+open files depth: 117 [65-129]
+2021-09-11 06:17:25.451504 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 117
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_117.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_117.nc duz
+
+open files depth: 117 [65-129]
+2021-09-11 06:17:36.123116 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 117
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_117.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_117.nc duz
+
+open files depth: 117 [65-129]
+2021-09-11 06:17:49.827556 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 117
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_117.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_117.nc duz
+
+open files depth: 116 [65-129]
+2021-09-11 06:18:03.829698 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 116
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_116.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_116.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_116.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_116.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_116.nc, dvz
+
+open files depth: 116 [65-129]
+2021-09-11 06:21:27.264240 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 116
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_116.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__116.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_116.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__116.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_116.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_116.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_116.nc, dvz
+
+open files depth: 116 [65-129]
+2021-09-11 06:27:02.998091 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 116
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_116.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_116.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_116.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_116.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_116.nc, dvz
+
+open files depth: 116 [65-129]
+2021-09-11 06:30:25.450762 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 116
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_116.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_116.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_116.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_116.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_116.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_116.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_116.nc, dvz
+
+open files depth: 115 [65-129]
+2021-09-11 06:35:36.778295 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 115
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_115.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_115.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_115.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_115.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_115.nc, dvz
+
+open files depth: 115 [65-129]
+2021-09-11 06:39:16.739725 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 115
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_115.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__115.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_115.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__115.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_115.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_115.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_115.nc, dvz
+
+open files depth: 115 [65-129]
+2021-09-11 06:45:24.791774 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 115
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_115.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_115.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_115.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_115.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_115.nc, dvz
+
+open files depth: 115 [65-129]
+2021-09-11 06:48:47.479871 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 115
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_115.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_115.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_115.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_115.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_115.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_115.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_115.nc, dvz
+
+open files depth: 114 [65-129]
+2021-09-11 06:54:59.751464 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 114
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_114.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_114.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_114.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_114.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_114.nc, dvz
+
+open files depth: 114 [65-129]
+2021-09-11 06:58:34.335238 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 114
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_114.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__114.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_114.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__114.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_114.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_114.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_114.nc, dvz
+
+open files depth: 114 [65-129]
+2021-09-11 07:04:16.061155 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 114
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_114.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_114.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_114.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_114.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_114.nc, dvz
+
+open files depth: 114 [65-129]
+2021-09-11 07:07:45.692328 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 114
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_114.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_114.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_114.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_114.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_114.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_114.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_114.nc, dvz
+
+open files depth: 113 [65-129]
+2021-09-11 07:13:16.015173 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 113
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_113.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_113.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_113.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_113.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_113.nc, dvz
+
+open files depth: 113 [65-129]
+2021-09-11 07:16:30.868988 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 113
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_113.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__113.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_113.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__113.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_113.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_113.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_113.nc, dvz
+
+open files depth: 113 [65-129]
+2021-09-11 07:21:51.871334 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 113
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_113.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_113.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_113.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_113.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_113.nc, dvz
+
+open files depth: 113 [65-129]
+2021-09-11 07:25:18.488923 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 113
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_113.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_113.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_113.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_113.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_113.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_113.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_113.nc, dvz
+
+open files depth: 112 [65-129]
+2021-09-11 07:31:20.876821 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 112
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_112.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_112.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_112.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_112.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_112.nc, dvz
+
+open files depth: 112 [65-129]
+2021-09-11 07:34:49.612391 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 112
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_112.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__112.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_112.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__112.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_112.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_112.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_112.nc, dvz
+
+open files depth: 112 [65-129]
+2021-09-11 07:40:49.165146 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 112
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_112.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_112.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_112.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_112.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_112.nc, dvz
+
+open files depth: 112 [65-129]
+2021-09-11 07:44:09.466095 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 112
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_112.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_112.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_112.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_112.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_112.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_112.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_112.nc, dvz
+
+open files depth: 111 [65-129]
+2021-09-11 07:49:26.676678 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 111
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_111.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_111.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_111.nc, dvz
+
+open files depth: 111 [65-129]
+2021-09-11 07:53:04.604351 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 111
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_111.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_111.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_111.nc, dvz
+
+open files depth: 111 [65-129]
+2021-09-11 07:59:01.925885 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 111
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_111.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_111.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_111.nc, dvz
+
+open files depth: 111 [65-129]
+2021-09-11 08:02:41.741082 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 111
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_111.nc
+Calc helm...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_111.nc
+(722, 513, 512) 0 722
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_111.nc
+(722, 513, 512) 0 722
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_111.nc, duz
+Saving SF /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_111.nc, dvz
+
+open files depth: 110 [65-129]
+2021-09-11 08:08:37.896740 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 110
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_110.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_110.nc duz
+
+open files depth: 110 [65-129]
+2021-09-11 08:08:53.621714 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 110
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_110.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_110.nc duz
+
+open files depth: 110 [65-129]
+2021-09-11 08:09:07.586345 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 110
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_110.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_110.nc duz
+
+open files depth: 110 [65-129]
+2021-09-11 08:09:22.799023 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 110
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_110.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_110.nc duz
+
+open files depth: 109 [65-129]
+2021-09-11 08:09:36.045887 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 109
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_109.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_109.nc duz
+
+open files depth: 109 [65-129]
+2021-09-11 08:09:49.665623 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 109
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_109.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_109.nc duz
+
+open files depth: 109 [65-129]
+2021-09-11 08:10:03.686311 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 109
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_109.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_109.nc duz
+
+open files depth: 109 [65-129]
+2021-09-11 08:10:20.112710 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 109
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_109.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_109.nc duz
+
+open files depth: 108 [65-129]
+2021-09-11 08:10:36.129137 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 108
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_108.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_108.nc duz
+
+open files depth: 108 [65-129]
+2021-09-11 08:10:48.546993 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 108
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_108.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_108.nc duz
+
+open files depth: 108 [65-129]
+2021-09-11 08:11:01.740234 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 108
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_108.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_108.nc duz
+
+open files depth: 108 [65-129]
+2021-09-11 08:11:16.448501 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 108
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_108.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_108.nc duz
+
+open files depth: 107 [65-129]
+2021-09-11 08:11:30.230145 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 107
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_107.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_107.nc duz
+
+open files depth: 107 [65-129]
+2021-09-11 08:11:44.055622 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 107
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_107.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_107.nc duz
+
+open files depth: 107 [65-129]
+2021-09-11 08:11:57.889160 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 107
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_107.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_107.nc duz
+
+open files depth: 107 [65-129]
+2021-09-11 08:12:10.400218 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 107
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_107.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_107.nc duz
+
+open files depth: 106 [65-129]
+2021-09-11 08:12:24.423075 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 106
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_106.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_106.nc duz
+
+open files depth: 106 [65-129]
+2021-09-11 08:12:37.273174 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 106
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_106.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_106.nc duz
+
+open files depth: 106 [65-129]
+2021-09-11 08:12:50.680100 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 106
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_106.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_106.nc duz
+
+open files depth: 106 [65-129]
+2021-09-11 08:13:03.658750 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 106
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_106.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_106.nc duz
+
+open files depth: 105 [65-129]
+2021-09-11 08:13:18.260416 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 105
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_105.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_105.nc duz
+
+open files depth: 105 [65-129]
+2021-09-11 08:13:31.854053 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 105
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_105.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_105.nc duz
+
+open files depth: 105 [65-129]
+2021-09-11 08:13:46.416201 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 105
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_105.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_105.nc duz
+
+open files depth: 105 [65-129]
+2021-09-11 08:14:00.188696 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 105
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_105.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_105.nc duz
+
+open files depth: 104 [65-129]
+2021-09-11 08:14:12.593715 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 104
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_104.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_104.nc duz
+
+open files depth: 104 [65-129]
+2021-09-11 08:14:25.848698 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 104
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_104.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_104.nc duz
+
+open files depth: 104 [65-129]
+2021-09-11 08:14:42.247550 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 104
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_104.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_104.nc duz
+
+open files depth: 104 [65-129]
+2021-09-11 08:14:56.035475 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 104
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_104.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_104.nc duz
+
+open files depth: 103 [65-129]
+2021-09-11 08:15:09.973108 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 103
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_103.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_103.nc duz
+
+open files depth: 103 [65-129]
+2021-09-11 08:15:22.050393 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 103
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_103.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_103.nc duz
+
+open files depth: 103 [65-129]
+2021-09-11 08:15:35.775541 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 103
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_103.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_103.nc duz
+
+open files depth: 103 [65-129]
+2021-09-11 08:15:49.865522 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 103
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_103.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_103.nc duz
+
+open files depth: 102 [65-129]
+2021-09-11 08:16:02.299713 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 102
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_102.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_102.nc duz
+
+open files depth: 102 [65-129]
+2021-09-11 08:16:14.785966 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 102
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_102.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_102.nc duz
+
+open files depth: 102 [65-129]
+2021-09-11 08:16:29.468048 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 102
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_102.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_102.nc duz
+
+open files depth: 102 [65-129]
+2021-09-11 08:16:45.010075 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 102
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_102.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_102.nc duz
+
+open files depth: 101 [65-129]
+2021-09-11 08:16:58.149510 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 101
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_101.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_101.nc duz
+
+open files depth: 101 [65-129]
+2021-09-11 08:17:12.927400 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 101
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_101.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_101.nc duz
+
+open files depth: 101 [65-129]
+2021-09-11 08:17:25.836230 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 101
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_101.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_101.nc duz
+
+open files depth: 101 [65-129]
+2021-09-11 08:17:40.671374 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 101
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_101.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_101.nc duz
+
+open files depth: 100 [65-129]
+2021-09-11 08:17:56.948573 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 100
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_100.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_100.nc duz
+
+open files depth: 100 [65-129]
+2021-09-11 08:18:12.152138 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 100
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_100.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_100.nc duz
+
+open files depth: 100 [65-129]
+2021-09-11 08:18:27.195144 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 100
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_100.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_100.nc duz
+
+open files depth: 100 [65-129]
+2021-09-11 08:18:41.565580 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 100
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_100.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_100.nc duz
+
+open files depth: 99 [65-129]
+2021-09-11 08:18:57.802283 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 99
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_099.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_099.nc duz
+
+open files depth: 99 [65-129]
+2021-09-11 08:19:14.041361 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 99
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_099.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_099.nc duz
+
+open files depth: 99 [65-129]
+2021-09-11 08:19:29.475727 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 99
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_099.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_099.nc duz
+
+open files depth: 99 [65-129]
+2021-09-11 08:19:42.236177 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 99
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_099.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_099.nc duz
+
+open files depth: 98 [65-129]
+2021-09-11 08:19:58.202123 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 98
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_098.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_098.nc duz
+
+open files depth: 98 [65-129]
+2021-09-11 08:20:13.486461 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 98
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_098.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_098.nc duz
+
+open files depth: 98 [65-129]
+2021-09-11 08:20:31.039314 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 98
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_098.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_098.nc duz
+
+open files depth: 98 [65-129]
+2021-09-11 08:20:45.549316 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 98
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_098.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_098.nc duz
+
+open files depth: 97 [65-129]
+2021-09-11 08:20:59.803377 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 97
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_097.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_097.nc duz
+
+open files depth: 97 [65-129]
+2021-09-11 08:21:12.914091 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 97
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_097.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_097.nc duz
+
+open files depth: 97 [65-129]
+2021-09-11 08:21:25.767259 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 97
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_097.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_097.nc duz
+
+open files depth: 97 [65-129]
+2021-09-11 08:21:40.226951 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 97
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_097.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_097.nc duz
+
+open files depth: 96 [65-129]
+2021-09-11 08:21:56.661799 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 96
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_096.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_096.nc duz
+
+open files depth: 96 [65-129]
+2021-09-11 08:22:09.519418 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 96
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_096.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_096.nc duz
+
+open files depth: 96 [65-129]
+2021-09-11 08:22:24.724987 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 96
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_096.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_096.nc duz
+
+open files depth: 96 [65-129]
+2021-09-11 08:22:40.723248 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 96
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_096.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_096.nc duz
+
+open files depth: 95 [65-129]
+2021-09-11 08:22:54.066682 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 95
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_095.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_095.nc duz
+
+open files depth: 95 [65-129]
+2021-09-11 08:23:08.799020 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 95
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_095.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_095.nc duz
+
+open files depth: 95 [65-129]
+2021-09-11 08:23:22.478180 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 95
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_095.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_095.nc duz
+
+open files depth: 95 [65-129]
+2021-09-11 08:23:37.528665 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 95
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_095.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_095.nc duz
+
+open files depth: 94 [65-129]
+2021-09-11 08:23:51.266826 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 94
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_094.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_094.nc duz
+
+open files depth: 94 [65-129]
+2021-09-11 08:24:03.889827 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 94
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_094.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_094.nc duz
+
+open files depth: 94 [65-129]
+2021-09-11 08:24:17.688359 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 94
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_094.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_094.nc duz
+
+open files depth: 94 [65-129]
+2021-09-11 08:24:30.640725 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 94
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_094.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_094.nc duz
+
+open files depth: 93 [65-129]
+2021-09-11 08:24:45.995682 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 93
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_093.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_093.nc duz
+
+open files depth: 93 [65-129]
+2021-09-11 08:25:00.405788 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 93
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_093.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_093.nc duz
+
+open files depth: 93 [65-129]
+2021-09-11 08:25:14.589537 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 93
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_093.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_093.nc duz
+
+open files depth: 93 [65-129]
+2021-09-11 08:25:31.612464 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 93
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_093.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_093.nc duz
+
+open files depth: 92 [65-129]
+2021-09-11 08:25:47.262264 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 92
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_092.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_092.nc duz
+
+open files depth: 92 [65-129]
+2021-09-11 08:26:02.621797 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 92
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_092.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_092.nc duz
+
+open files depth: 92 [65-129]
+2021-09-11 08:26:17.482459 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 92
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_092.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_092.nc duz
+
+open files depth: 92 [65-129]
+2021-09-11 08:26:32.443231 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 92
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_092.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_092.nc duz
+
+open files depth: 91 [65-129]
+2021-09-11 08:26:47.662346 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 91
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_091.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_091.nc duz
+
+open files depth: 91 [65-129]
+2021-09-11 08:27:02.262277 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 91
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_091.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_091.nc duz
+
+open files depth: 91 [65-129]
+2021-09-11 08:27:16.844942 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 91
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_091.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_091.nc duz
+
+open files depth: 91 [65-129]
+2021-09-11 08:27:31.745445 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 91
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_091.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_091.nc duz
+
+open files depth: 90 [65-129]
+2021-09-11 08:27:43.398018 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 90
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_090.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_090.nc duz
+
+open files depth: 90 [65-129]
+2021-09-11 08:27:52.868309 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 90
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_090.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_090.nc duz
+
+open files depth: 90 [65-129]
+2021-09-11 08:28:06.112641 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 90
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_090.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_090.nc duz
+
+open files depth: 90 [65-129]
+2021-09-11 08:28:17.588470 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 90
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_090.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_090.nc duz
+
+open files depth: 89 [65-129]
+2021-09-11 08:28:28.015095 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 89
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_089.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_089.nc duz
+
+open files depth: 89 [65-129]
+2021-09-11 08:28:38.579292 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 89
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_089.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_089.nc duz
+
+open files depth: 89 [65-129]
+2021-09-11 08:28:41.955791 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 89
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_089.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_089.nc duz
+
+open files depth: 89 [65-129]
+2021-09-11 08:28:56.445137 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 89
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_089.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_089.nc duz
+
+open files depth: 88 [65-129]
+2021-09-11 08:29:10.750687 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 88
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_088.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_088.nc duz
+
+open files depth: 88 [65-129]
+2021-09-11 08:29:26.649763 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 88
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_088.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_088.nc duz
+
+open files depth: 88 [65-129]
+2021-09-11 08:29:43.853419 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 88
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_088.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_088.nc duz
+
+open files depth: 88 [65-129]
+2021-09-11 08:30:01.530931 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 88
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_088.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_088.nc duz
+
+open files depth: 87 [65-129]
+2021-09-11 08:30:20.237630 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 87
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_087.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_087.nc duz
+
+open files depth: 87 [65-129]
+2021-09-11 08:30:36.813696 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 87
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_087.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_087.nc duz
+
+open files depth: 87 [65-129]
+2021-09-11 08:30:50.884000 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 87
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_087.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_087.nc duz
+
+open files depth: 87 [65-129]
+2021-09-11 08:31:07.212427 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 87
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_087.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_087.nc duz
+
+open files depth: 86 [65-129]
+2021-09-11 08:31:23.201388 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 86
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_086.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_086.nc duz
+
+open files depth: 86 [65-129]
+2021-09-11 08:31:37.842432 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 86
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_086.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_086.nc duz
+
+open files depth: 86 [65-129]
+2021-09-11 08:31:56.133871 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 86
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_086.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_086.nc duz
+
+open files depth: 86 [65-129]
+2021-09-11 08:32:10.743595 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 86
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_086.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_086.nc duz
+
+open files depth: 85 [65-129]
+2021-09-11 08:32:29.899876 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 85
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_085.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_085.nc duz
+
+open files depth: 85 [65-129]
+2021-09-11 08:32:47.753934 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 85
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_085.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_085.nc duz
+
+open files depth: 85 [65-129]
+2021-09-11 08:33:01.940792 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 85
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_085.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_085.nc duz
+
+open files depth: 85 [65-129]
+2021-09-11 08:33:16.261835 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 85
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_085.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_085.nc duz
+
+open files depth: 84 [65-129]
+2021-09-11 08:33:29.890250 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 84
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_084.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_084.nc duz
+
+open files depth: 84 [65-129]
+2021-09-11 08:33:43.731332 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 84
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_084.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_084.nc duz
+
+open files depth: 84 [65-129]
+2021-09-11 08:33:53.802458 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 84
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_084.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_084.nc duz
+
+open files depth: 84 [65-129]
+2021-09-11 08:33:59.509153 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 84
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_084.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_084.nc duz
+
+open files depth: 83 [65-129]
+2021-09-11 08:34:07.312074 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 83
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_083.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_083.nc duz
+
+open files depth: 83 [65-129]
+2021-09-11 08:34:14.067485 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 83
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_083.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_083.nc duz
+
+open files depth: 83 [65-129]
+2021-09-11 08:34:22.159360 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 83
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_083.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_083.nc duz
+
+open files depth: 83 [65-129]
+2021-09-11 08:34:35.514263 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 83
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_083.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_083.nc duz
+
+open files depth: 82 [65-129]
+2021-09-11 08:34:47.259498 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 82
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_082.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_082.nc duz
+
+open files depth: 82 [65-129]
+2021-09-11 08:34:54.190253 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 82
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_082.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_082.nc duz
+
+open files depth: 82 [65-129]
+2021-09-11 08:35:05.968941 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 82
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_082.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_082.nc duz
+
+open files depth: 82 [65-129]
+2021-09-11 08:35:16.959565 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 82
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_082.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_082.nc duz
+
+open files depth: 81 [65-129]
+2021-09-11 08:35:29.495535 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 81
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_081.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_081.nc duz
+
+open files depth: 81 [65-129]
+2021-09-11 08:35:44.118128 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 81
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_081.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_081.nc duz
+
+open files depth: 81 [65-129]
+2021-09-11 08:35:59.237657 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 81
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_081.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_081.nc duz
+
+open files depth: 81 [65-129]
+2021-09-11 08:36:13.642728 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 81
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_081.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_081.nc duz
+
+open files depth: 80 [65-129]
+2021-09-11 08:36:28.447553 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 80
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_080.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_080.nc duz
+
+open files depth: 80 [65-129]
+2021-09-11 08:36:43.520192 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 80
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_080.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_080.nc duz
+
+open files depth: 80 [65-129]
+2021-09-11 08:36:58.226137 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 80
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_080.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_080.nc duz
+
+open files depth: 80 [65-129]
+2021-09-11 08:37:13.169295 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 80
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_080.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_080.nc duz
+
+open files depth: 79 [65-129]
+2021-09-11 08:37:28.184990 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 79
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_079.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_079.nc duz
+
+open files depth: 79 [65-129]
+2021-09-11 08:37:41.933127 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 79
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_079.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_079.nc duz
+
+open files depth: 79 [65-129]
+2021-09-11 08:37:55.591118 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 79
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_079.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_079.nc duz
+
+open files depth: 79 [65-129]
+2021-09-11 08:38:09.253451 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 79
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_079.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_079.nc duz
+
+open files depth: 78 [65-129]
+2021-09-11 08:38:23.586663 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 78
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_078.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_078.nc duz
+
+open files depth: 78 [65-129]
+2021-09-11 08:38:37.266830 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 78
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_078.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_078.nc duz
+
+open files depth: 78 [65-129]
+2021-09-11 08:38:50.609809 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 78
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_078.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_078.nc duz
+
+open files depth: 78 [65-129]
+2021-09-11 08:39:03.854385 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 78
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_078.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_078.nc duz
+
+open files depth: 77 [65-129]
+2021-09-11 08:39:19.200568 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 77
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc duz
+
+open files depth: 77 [65-129]
+2021-09-11 08:39:34.832664 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 77
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc duz
+
+open files depth: 76 [65-129]
+2021-09-11 08:39:46.962197 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 76
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc duz
+
+open files depth: 76 [65-129]
+2021-09-11 08:39:58.198212 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 76
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc duz
+
+open files depth: 76 [65-129]
+2021-09-11 08:40:05.740356 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 76
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc duz
+
+open files depth: 76 [65-129]
+2021-09-11 08:40:15.788476 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 76
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc duz
+
+open files depth: 75 [65-129]
+2021-09-11 08:40:29.801613 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 75
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_075.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_075.nc duz
+
+open files depth: 75 [65-129]
+2021-09-11 08:40:45.126320 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 75
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_075.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_075.nc duz
+
+open files depth: 75 [65-129]
+2021-09-11 08:40:58.066943 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 75
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_075.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_075.nc duz
+
+open files depth: 75 [65-129]
+2021-09-11 08:41:11.738972 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 75
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_075.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_075.nc duz
+
+open files depth: 74 [65-129]
+2021-09-11 08:41:26.789445 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 74
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_074.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_074.nc duz
+
+open files depth: 74 [65-129]
+2021-09-11 08:41:49.050220 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 74
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_074.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_074.nc duz
+
+open files depth: 74 [65-129]
+2021-09-11 08:42:06.713263 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 74
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_074.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_074.nc duz
+
+open files depth: 74 [65-129]
+2021-09-11 08:42:23.072700 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 74
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_074.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_074.nc duz
+
+open files depth: 73 [65-129]
+2021-09-11 08:42:39.733019 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 73
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_073.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_073.nc duz
+
+open files depth: 73 [65-129]
+2021-09-11 08:42:54.921058 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 73
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_073.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_073.nc duz
+
+open files depth: 73 [65-129]
+2021-09-11 08:43:10.725703 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 73
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_073.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_073.nc duz
+
+open files depth: 73 [65-129]
+2021-09-11 08:43:26.033166 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 73
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_073.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_073.nc duz
+
+open files depth: 72 [65-129]
+2021-09-11 08:43:41.949587 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 72
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_072.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_072.nc duz
+
+open files depth: 72 [65-129]
+2021-09-11 08:43:58.436566 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 72
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_072.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_072.nc duz
+
+open files depth: 72 [65-129]
+2021-09-11 08:44:13.934381 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 72
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_072.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_072.nc duz
+
+open files depth: 72 [65-129]
+2021-09-11 08:44:26.451665 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 72
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_072.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_072.nc duz
+
+open files depth: 71 [65-129]
+2021-09-11 08:44:41.750062 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 71
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_071.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_071.nc duz
+
+open files depth: 71 [65-129]
+2021-09-11 08:44:54.898873 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 71
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_071.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_071.nc duz
+
+open files depth: 71 [65-129]
+2021-09-11 08:45:05.909804 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 71
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_071.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_071.nc duz
+
+open files depth: 71 [65-129]
+2021-09-11 08:45:11.176664 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 71
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_071.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_071.nc duz
+
+open files depth: 70 [65-129]
+2021-09-11 08:45:13.657062 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 70
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_070.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_070.nc duz
+
+open files depth: 70 [65-129]
+2021-09-11 08:45:16.106454 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 70
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_070.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_070.nc duz
+
+open files depth: 70 [65-129]
+2021-09-11 08:45:19.789542 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 70
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_070.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_070.nc duz
+
+open files depth: 70 [65-129]
+2021-09-11 08:45:26.864161 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 70
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_070.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_070.nc duz
+
+open files depth: 69 [65-129]
+2021-09-11 08:45:37.958484 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 69
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_069.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_069.nc duz
+
+open files depth: 69 [65-129]
+2021-09-11 08:45:53.316039 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 69
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_069.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_069.nc duz
+
+open files depth: 69 [65-129]
+2021-09-11 08:46:06.042524 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 69
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_069.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_069.nc duz
+
+open files depth: 69 [65-129]
+2021-09-11 08:46:18.132401 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 69
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_069.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_069.nc duz
+
+open files depth: 68 [65-129]
+2021-09-11 08:46:34.902948 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 68
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_068.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_068.nc duz
+
+open files depth: 68 [65-129]
+2021-09-11 08:46:49.302775 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 68
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_068.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_068.nc duz
+
+open files depth: 68 [65-129]
+2021-09-11 08:47:05.336288 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 68
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_068.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_068.nc duz
+
+open files depth: 68 [65-129]
+2021-09-11 08:47:22.623711 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 68
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_068.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_068.nc duz
+
+open files depth: 67 [65-129]
+2021-09-11 08:47:38.301839 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 67
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_067.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_067.nc duz
+
+open files depth: 67 [65-129]
+2021-09-11 08:47:57.670120 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 67
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_067.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_067.nc duz
+
+open files depth: 67 [65-129]
+2021-09-11 08:48:14.412211 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 67
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_067.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_067.nc duz
+
+open files depth: 67 [65-129]
+2021-09-11 08:48:30.994458 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 67
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_067.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_067.nc duz
+
+open files depth: 66 [65-129]
+2021-09-11 08:48:49.224773 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 66
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_066.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_066.nc duz
+
+open files depth: 66 [65-129]
+2021-09-11 08:49:04.860666 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 66
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_066.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_066.nc duz
+
+open files depth: 66 [65-129]
+2021-09-11 08:49:20.589941 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 66
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_066.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_066.nc duz
+
+open files depth: 66 [65-129]
+2021-09-11 08:49:35.376156 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 66
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_066.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_066.nc duz
+
+open files depth: 65 [65-129]
+2021-09-11 08:49:51.869698 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Steady 65
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_065.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_065.nc duz
+
+open files depth: 65 [65-129]
+2021-09-11 08:50:07.310670 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Steady 65
+/atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_065.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_065.nc duz
+
+open files depth: 65 [65-129]
+2021-09-11 08:50:21.866092 , process pid:  204793
+20 LF None False 0 722
+Defining dataset : Stochastic 65
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_065.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_065.nc duz
+
+open files depth: 65 [65-129]
+2021-09-11 08:50:36.095138 , process pid:  204793
+20 HF None False 0 722
+Defining dataset : Stochastic 65
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_065.nc
+already exist: /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_065.nc duz
+BYE BYE
+/analysis/michalshaham/PythonProjects/Oceanography/tools/data_analysis_tools.py:214: RuntimeWarning: divide by zero encountered in true_divide
+  yyt = yyt / denom
+/analysis/michalshaham/PythonProjects/Oceanography/tools/data_analysis_tools.py:214: RuntimeWarning: invalid value encountered in true_divide
+  yyt = yyt / denom

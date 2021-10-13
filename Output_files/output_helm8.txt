@@ -1,0 +1,378 @@
+START RUNNING: DEPTHS 113-129
+
+open files depth: 113 [113-129]
+2021-08-05 12:00:37.656022
+16 LF None False 0 722
+Defining dataset : Steady 113
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_113.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_113.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_113.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_113.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_113.nc dvz
+
+open files depth: 113 [113-129]
+2021-08-05 12:03:49.022510
+16 LF None False 0 722
+Defining dataset : Stochastic 113
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_113.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_113.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_113.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_113.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_113.nc dvz
+
+open files depth: 114 [113-129]
+2021-08-05 12:06:49.039265
+16 LF None False 0 722
+Defining dataset : Steady 114
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_114.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_114.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_114.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_114.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_114.nc dvz
+
+open files depth: 114 [113-129]
+2021-08-05 12:09:30.057405
+16 LF None False 0 722
+Defining dataset : Stochastic 114
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_114.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_114.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_114.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_114.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_114.nc dvz
+
+open files depth: 115 [113-129]
+2021-08-05 12:12:09.399145
+16 LF None False 0 722
+Defining dataset : Steady 115
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_115.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_115.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_115.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_115.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_115.nc dvz
+
+open files depth: 115 [113-129]
+2021-08-05 12:14:55.169381
+16 LF None False 0 722
+Defining dataset : Stochastic 115
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_115.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_115.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_115.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_115.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_115.nc dvz
+
+open files depth: 116 [113-129]
+2021-08-05 12:17:43.666231
+16 LF None False 0 722
+Defining dataset : Steady 116
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_116.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_116.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_116.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_116.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_116.nc dvz
+
+open files depth: 116 [113-129]
+2021-08-05 12:20:30.374823
+16 LF None False 0 722
+Defining dataset : Stochastic 116
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_116.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_116.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_116.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_116.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_116.nc dvz
+
+open files depth: 117 [113-129]
+2021-08-05 12:23:14.297274
+16 LF None False 0 722
+Defining dataset : Steady 117
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_117.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_117.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_117.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_117.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_117.nc dvz
+
+open files depth: 117 [113-129]
+2021-08-05 12:25:57.064419
+16 LF None False 0 722
+Defining dataset : Stochastic 117
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_117.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_117.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_117.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_117.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_117.nc dvz
+
+open files depth: 118 [113-129]
+2021-08-05 12:28:38.141308
+16 LF None False 0 722
+Defining dataset : Steady 118
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_118.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_118.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_118.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_118.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_118.nc dvz
+
+open files depth: 118 [113-129]
+2021-08-05 12:31:19.828771
+16 LF None False 0 722
+Defining dataset : Stochastic 118
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_118.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_118.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_118.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_118.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_118.nc dvz
+
+open files depth: 119 [113-129]
+2021-08-05 12:34:03.983856
+16 LF None False 0 722
+Defining dataset : Steady 119
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_119.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_119.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_119.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_119.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_119.nc dvz
+
+open files depth: 119 [113-129]
+2021-08-05 12:36:59.888860
+16 LF None False 0 722
+Defining dataset : Stochastic 119
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_119.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_119.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_119.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_119.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_119.nc dvz
+
+open files depth: 120 [113-129]
+2021-08-05 12:39:41.252336
+16 LF None False 0 722
+Defining dataset : Steady 120
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_120.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_120.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_120.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_120.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_120.nc dvz
+
+open files depth: 120 [113-129]
+2021-08-05 12:42:18.677311
+16 LF None False 0 722
+Defining dataset : Stochastic 120
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_120.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_120.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_120.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_120.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_120.nc dvz
+
+open files depth: 121 [113-129]
+2021-08-05 12:45:07.360482
+16 LF None False 0 722
+Defining dataset : Steady 121
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_121.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_121.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_121.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_121.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_121.nc dvz
+
+open files depth: 121 [113-129]
+2021-08-05 12:47:51.411009
+16 LF None False 0 722
+Defining dataset : Stochastic 121
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_121.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_121.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_121.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_121.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_121.nc dvz
+
+open files depth: 122 [113-129]
+2021-08-05 12:50:37.674298
+16 LF None False 0 722
+Defining dataset : Steady 122
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_122.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_122.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_122.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_122.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_122.nc dvz
+
+open files depth: 122 [113-129]
+2021-08-05 12:53:15.397911
+16 LF None False 0 722
+Defining dataset : Stochastic 122
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_122.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_122.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_122.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_122.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_122.nc dvz
+
+open files depth: 123 [113-129]
+2021-08-05 12:55:57.449995
+16 LF None False 0 722
+Defining dataset : Steady 123
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_123.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_123.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_123.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_123.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_123.nc dvz
+
+open files depth: 123 [113-129]
+2021-08-05 12:58:39.746574
+16 LF None False 0 722
+Defining dataset : Stochastic 123
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_123.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_123.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_123.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_123.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_123.nc dvz
+
+open files depth: 124 [113-129]
+2021-08-05 13:01:24.703860
+16 LF None False 0 722
+Defining dataset : Steady 124
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_124.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_124.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_124.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_124.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_124.nc dvz
+
+open files depth: 124 [113-129]
+2021-08-05 13:04:10.410612
+16 LF None False 0 722
+Defining dataset : Stochastic 124
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_124.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_124.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_124.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_124.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_124.nc dvz
+
+open files depth: 125 [113-129]
+2021-08-05 13:06:58.964644
+16 LF None False 0 722
+Defining dataset : Steady 125
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_125.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_125.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_125.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_125.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_125.nc dvz
+
+open files depth: 125 [113-129]
+2021-08-05 13:09:48.551365
+16 LF None False 0 722
+Defining dataset : Stochastic 125
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_125.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_125.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_125.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_125.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_125.nc dvz
+
+open files depth: 126 [113-129]
+2021-08-05 13:12:36.335174
+16 LF None False 0 722
+Defining dataset : Steady 126
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_126.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_126.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_126.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_126.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_126.nc dvz
+
+open files depth: 126 [113-129]
+2021-08-05 13:15:20.517542
+16 LF None False 0 722
+Defining dataset : Stochastic 126
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_126.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_126.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_126.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_126.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_126.nc dvz
+
+open files depth: 127 [113-129]
+2021-08-05 13:18:24.573374
+16 LF None False 0 722
+Defining dataset : Steady 127
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_127.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_127.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_127.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_127.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_127.nc dvz
+
+open files depth: 127 [113-129]
+2021-08-05 13:21:15.001447
+16 LF None False 0 722
+Defining dataset : Stochastic 127
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_127.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_127.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_127.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_127.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_127.nc dvz
+
+open files depth: 128 [113-129]
+2021-08-05 13:23:57.467202
+16 LF None False 0 722
+Defining dataset : Steady 128
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_128.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_128.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_128.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_128.nc dvz
+
+open files depth: 128 [113-129]
+2021-08-05 13:26:43.304132
+16 LF None False 0 722
+Defining dataset : Stochastic 128
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_128.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_128.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_128.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_128.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_128.nc dvz
+
+open files depth: 129 [113-129]
+2021-08-05 13:29:15.071961
+16 LF None False 0 722
+Defining dataset : Steady 129
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_129.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_129.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_129.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_129.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_129.nc dvz
+
+open files depth: 129 [113-129]
+2021-08-05 13:31:44.819848
+16 LF None False 0 722
+Defining dataset : Stochastic 129
+/atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_129.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_129.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw16/XY_129.nc
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_129.nc duz
+Changing Variable:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw16_LF/XY_129.nc dvz
+BYE BYE
+/analysis/michalshaham/PythonProjects/Oceanography/tools/data_analysis_tools.py:214: RuntimeWarning: invalid value encountered in true_divide
+  yyt = yyt / denom

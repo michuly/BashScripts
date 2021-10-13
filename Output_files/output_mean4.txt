@@ -1,0 +1,790 @@
+START RUNNING: DEPTHS 97-129
+
+open files depth: 97 [97-129]
+2021-06-30 12:12:43.193310
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_097.nc
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_097.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__097.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_097.nc, u
+
+open files depth: 97 [97-129]
+2021-06-30 12:12:51.949490
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_097.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_097.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_097.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_097.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_097.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_097.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_097.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_097.nc, u
+
+open files depth: 98 [97-129]
+2021-06-30 12:14:10.355453
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_098.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_098.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_098.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_098.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_098.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_098.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__098.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_098.nc, u
+
+open files depth: 98 [97-129]
+2021-06-30 12:15:20.552621
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_098.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_098.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_098.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_098.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_098.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_098.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_098.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_098.nc, u
+
+open files depth: 99 [97-129]
+2021-06-30 12:16:30.244186
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_099.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_099.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_099.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_099.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_099.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_099.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__099.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_099.nc, u
+
+open files depth: 99 [97-129]
+2021-06-30 12:17:40.771554
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_099.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_099.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_099.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_099.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_099.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_099.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_099.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_099.nc, u
+
+open files depth: 100 [97-129]
+2021-06-30 12:18:50.534061
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_100.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_100.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_100.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_100.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_100.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_100.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__100.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_100.nc, u
+
+open files depth: 100 [97-129]
+2021-06-30 12:20:03.160628
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_100.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_100.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_100.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_100.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_100.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_100.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_100.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_100.nc, u
+
+open files depth: 101 [97-129]
+2021-06-30 12:21:16.179756
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_101.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_101.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_101.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_101.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_101.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__101.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_101.nc, u
+
+open files depth: 101 [97-129]
+2021-06-30 12:23:03.318489
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_101.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_101.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_101.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_101.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_101.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_101.nc, u
+
+open files depth: 102 [97-129]
+2021-06-30 12:24:13.204280
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_102.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_102.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_102.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_102.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_102.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__102.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_102.nc, u
+
+open files depth: 102 [97-129]
+2021-06-30 12:25:24.829360
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_102.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_102.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_102.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_102.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_102.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_102.nc, u
+
+open files depth: 103 [97-129]
+2021-06-30 12:26:37.631746
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_103.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_103.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_103.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_103.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_103.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__103.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_103.nc, u
+
+open files depth: 103 [97-129]
+2021-06-30 12:28:18.376145
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_103.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_103.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_103.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_103.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_103.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_103.nc, u
+
+open files depth: 104 [97-129]
+2021-06-30 12:29:35.574571
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_104.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_104.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_104.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_104.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_104.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_104.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__104.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_104.nc, u
+
+open files depth: 104 [97-129]
+2021-06-30 12:31:18.829257
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_104.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_104.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_104.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_104.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_104.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_104.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_104.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_104.nc, u
+
+open files depth: 105 [97-129]
+2021-06-30 12:32:31.825847
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_105.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_105.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_105.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_105.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_105.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_105.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__105.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_105.nc, u
+
+open files depth: 105 [97-129]
+2021-06-30 12:33:47.176886
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_105.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_105.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_105.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_105.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_105.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_105.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_105.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_105.nc, u
+
+open files depth: 106 [97-129]
+2021-06-30 12:35:49.499568
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_106.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_106.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_106.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_106.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_106.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_106.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__106.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_106.nc, u
+
+open files depth: 106 [97-129]
+2021-06-30 12:37:12.895853
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_106.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_106.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_106.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_106.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_106.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_106.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_106.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_106.nc, u
+
+open files depth: 107 [97-129]
+2021-06-30 12:38:47.387358
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_107.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_107.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_107.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_107.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_107.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_107.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__107.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_107.nc, u
+
+open files depth: 107 [97-129]
+2021-06-30 12:40:20.601200
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_107.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_107.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_107.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_107.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_107.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_107.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_107.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_107.nc, u
+
+open files depth: 108 [97-129]
+2021-06-30 12:42:00.217567
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_108.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_108.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_108.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_108.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_108.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_108.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__108.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_108.nc, u
+
+open files depth: 108 [97-129]
+2021-06-30 12:43:30.787217
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_108.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_108.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_108.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_108.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_108.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_108.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_108.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_108.nc, u
+
+open files depth: 109 [97-129]
+2021-06-30 12:44:56.764786
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_109.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_109.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_109.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_109.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_109.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_109.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__109.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_109.nc, u
+
+open files depth: 109 [97-129]
+2021-06-30 12:46:50.540660
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_109.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_109.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_109.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_109.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_109.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_109.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_109.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_109.nc, u
+
+open files depth: 110 [97-129]
+2021-06-30 12:48:09.456661
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_110.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_110.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_110.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_110.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_110.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_110.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__110.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_110.nc, u
+
+open files depth: 110 [97-129]
+2021-06-30 12:49:31.474629
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_110.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_110.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_110.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_110.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_110.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_110.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_110.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_110.nc, u
+
+open files depth: 111 [97-129]
+2021-06-30 12:50:51.842154
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_111.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_111.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_111.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_111.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_111.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_111.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__111.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_111.nc, u
+
+open files depth: 111 [97-129]
+2021-06-30 12:52:11.773491
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_111.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_111.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_111.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_111.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_111.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_111.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_111.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_111.nc, u
+
+open files depth: 112 [97-129]
+2021-06-30 12:53:33.559682
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_112.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_112.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_112.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_112.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_112.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_112.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__112.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_112.nc, u
+
+open files depth: 112 [97-129]
+2021-06-30 12:54:56.401697
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_112.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_112.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_112.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_112.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_112.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_112.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_112.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_112.nc, u
+
+open files depth: 113 [97-129]
+2021-06-30 12:56:19.295780
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_113.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_113.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_113.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_113.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_113.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_113.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__113.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_113.nc, u
+
+open files depth: 113 [97-129]
+2021-06-30 12:57:40.394520
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_113.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_113.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_113.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_113.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_113.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_113.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_113.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_113.nc, u
+
+open files depth: 114 [97-129]
+2021-06-30 12:58:56.141299
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_114.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_114.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_114.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_114.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_114.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_114.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__114.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_114.nc, u
+
+open files depth: 114 [97-129]
+2021-06-30 12:59:59.845246
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_114.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_114.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_114.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_114.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_114.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_114.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_114.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_114.nc, u
+
+open files depth: 115 [97-129]
+2021-06-30 13:01:03.871692
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_115.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_115.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_115.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_115.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_115.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_115.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__115.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_115.nc, u
+
+open files depth: 115 [97-129]
+2021-06-30 13:02:16.535598
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_115.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_115.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_115.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_115.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_115.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_115.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_115.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_115.nc, u
+
+open files depth: 116 [97-129]
+2021-06-30 13:03:32.022561
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_116.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_116.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_116.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_116.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_116.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_116.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__116.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_116.nc, u
+
+open files depth: 116 [97-129]
+2021-06-30 13:04:42.645537
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_116.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_116.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_116.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_116.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_116.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_116.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_116.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_116.nc, u
+
+open files depth: 117 [97-129]
+2021-06-30 13:05:55.402097
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_117.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_117.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_117.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_117.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_117.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_117.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__117.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_117.nc, u
+
+open files depth: 117 [97-129]
+2021-06-30 13:07:07.592468
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_117.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_117.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_117.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_117.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_117.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_117.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_117.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_117.nc, u
+
+open files depth: 118 [97-129]
+2021-06-30 13:08:22.021280
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_118.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_118.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_118.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_118.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_118.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_118.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__118.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_118.nc, u
+
+open files depth: 118 [97-129]
+2021-06-30 13:09:37.905082
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_118.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_118.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_118.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_118.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_118.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_118.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_118.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_118.nc, u
+
+open files depth: 119 [97-129]
+2021-06-30 13:10:58.916339
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_119.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_119.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_119.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_119.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_119.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_119.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__119.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_119.nc, u
+
+open files depth: 119 [97-129]
+2021-06-30 13:12:15.023027
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_119.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_119.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_119.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_119.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_119.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_119.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_119.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_119.nc, u
+
+open files depth: 120 [97-129]
+2021-06-30 13:13:29.116076
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_120.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_120.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_120.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_120.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_120.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_120.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__120.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_120.nc, u
+
+open files depth: 120 [97-129]
+2021-06-30 13:14:43.641564
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_120.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_120.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_120.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_120.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_120.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_120.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_120.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_120.nc, u
+
+open files depth: 121 [97-129]
+2021-06-30 13:16:06.550288
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_121.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_121.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_121.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_121.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_121.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_121.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__121.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_121.nc, u
+
+open files depth: 121 [97-129]
+2021-06-30 13:17:30.242647
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_121.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_121.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_121.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_121.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_121.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_121.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_121.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_121.nc, u
+
+open files depth: 122 [97-129]
+2021-06-30 13:18:58.068025
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_122.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_122.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_122.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_122.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_122.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_122.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__122.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_122.nc, u
+
+open files depth: 122 [97-129]
+2021-06-30 13:20:19.459244
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_122.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_122.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_122.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_122.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_122.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_122.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_122.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_122.nc, u
+
+open files depth: 123 [97-129]
+2021-06-30 13:21:41.295923
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_123.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_123.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_123.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_123.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_123.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_123.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__123.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_123.nc, u
+
+open files depth: 123 [97-129]
+2021-06-30 13:23:00.265041
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_123.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_123.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_123.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_123.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_123.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_123.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_123.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_123.nc, u
+
+open files depth: 124 [97-129]
+2021-06-30 13:24:21.951572
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_124.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_124.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_124.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_124.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_124.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_124.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__124.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_124.nc, u
+
+open files depth: 124 [97-129]
+2021-06-30 13:25:42.466674
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_124.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_124.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_124.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_124.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_124.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_124.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_124.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_124.nc, u
+
+open files depth: 125 [97-129]
+2021-06-30 13:27:03.274519
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_125.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_125.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_125.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_125.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_125.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_125.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__125.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_125.nc, u
+
+open files depth: 125 [97-129]
+2021-06-30 13:28:17.837744
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_125.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_125.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_125.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_125.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_125.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_125.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_125.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_125.nc, u
+
+open files depth: 126 [97-129]
+2021-06-30 13:30:10.702202
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_126.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_126.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_126.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_126.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_126.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_126.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__126.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_126.nc, u
+
+open files depth: 126 [97-129]
+2021-06-30 13:31:27.664093
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_126.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_126.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_126.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_126.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_126.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_126.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_126.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_126.nc, u
+
+open files depth: 127 [97-129]
+2021-06-30 13:32:54.955464
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_127.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_127.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_127.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_127.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_127.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_127.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__127.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_127.nc, u
+
+open files depth: 127 [97-129]
+2021-06-30 13:34:14.415598
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_127.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_127.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_127.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_127.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_127.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_127.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_127.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_127.nc, u
+
+open files depth: 128 [97-129]
+2021-06-30 13:35:24.407748
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_128.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_128.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_128.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_128.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_128.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_128.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__128.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_128.nc, u
+
+open files depth: 128 [97-129]
+2021-06-30 13:36:27.156604
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_128.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_128.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_128.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_128.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_128.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_128.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_128.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_128.nc, u
+
+open files depth: 129 [97-129]
+2021-06-30 13:37:14.512554
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_129.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_129.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_129.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_129.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_129.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_129.nc
+/atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__129.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_129.nc, u
+
+open files depth: 129 [97-129]
+2021-06-30 13:37:57.835023
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_129.nc
+Creating NCfile /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_129.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_129.nc, t
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_129.nc, y
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_129.nc, x
+Calc reduce mean u...
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_129.nc
+/atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_129.nc
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_129.nc, u
+BYE BYE

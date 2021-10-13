@@ -1,0 +1,8 @@
+HELLO WORLD
+FLUXES: 1 64
+/analysis/michalshaham/BashScripts/Output_files/output_deriv1.txt
+DONE FLUXES: 1 64
+FLUXES: 65 129
+/analysis/michalshaham/BashScripts/Output_files/output_deriv2.txt
+DONE FLUXES: 65 129
+BYE BYE

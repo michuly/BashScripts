@@ -1,0 +1,8 @@
+HELLO WORLD
+FLUXES: 23 27
+/analysis/michalshaham/BashScripts/Output_files/output_helm3.txt
+DONE FLUXES: 23 27
+FLUXES: 28 32
+/analysis/michalshaham/BashScripts/Output_files/output_helm4.txt
+DONE FLUXES: 28 32
+BYE BYE

@@ -1,0 +1,306 @@
+START RUNNING: DEPTHS 65-86
+
+open files depth: 86 [65-86]
+2021-06-30 15:21:51.980662
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_086.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_086.nc, duy
+
+open files depth: 86 [65-86]
+2021-06-30 15:22:19.639168
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_086.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_086.nc, duy
+
+open files depth: 85 [65-86]
+2021-06-30 15:22:58.131086
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_085.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_085.nc, duy
+
+open files depth: 85 [65-86]
+2021-06-30 15:23:28.587051
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_085.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_085.nc, duy
+
+open files depth: 84 [65-86]
+2021-06-30 15:23:58.996667
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_084.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_084.nc, duy
+
+open files depth: 84 [65-86]
+2021-06-30 15:24:36.210461
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_084.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_084.nc, duy
+
+open files depth: 83 [65-86]
+2021-06-30 15:25:05.278528
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_083.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_083.nc, duy
+
+open files depth: 83 [65-86]
+2021-06-30 15:25:41.819231
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_083.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_083.nc, duy
+
+open files depth: 82 [65-86]
+2021-06-30 15:26:17.656810
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_082.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_082.nc, duy
+
+open files depth: 82 [65-86]
+2021-06-30 15:26:45.964632
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_082.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_082.nc, duy
+
+open files depth: 81 [65-86]
+2021-06-30 15:27:14.344356
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_081.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_081.nc, duy
+
+open files depth: 81 [65-86]
+2021-06-30 15:27:45.867774
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_081.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_081.nc, duy
+
+open files depth: 80 [65-86]
+2021-06-30 15:28:15.350300
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_080.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_080.nc, duy
+
+open files depth: 80 [65-86]
+2021-06-30 15:28:47.248988
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_080.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_080.nc, duy
+
+open files depth: 79 [65-86]
+2021-06-30 15:29:16.419986
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_079.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_079.nc, duy
+
+open files depth: 79 [65-86]
+2021-06-30 15:29:50.675987
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_079.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_079.nc, duy
+
+open files depth: 78 [65-86]
+2021-06-30 15:30:29.512285
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_078.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_078.nc, duy
+
+open files depth: 78 [65-86]
+2021-06-30 15:31:03.857917
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_078.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_078.nc, duy
+
+open files depth: 77 [65-86]
+2021-06-30 15:31:37.002055
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_077.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_077.nc, duy
+
+open files depth: 77 [65-86]
+2021-06-30 15:32:05.037640
+
+open files depth: 76 [65-86]
+2021-06-30 15:32:05.037681
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_076.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_076.nc, duy
+
+open files depth: 76 [65-86]
+2021-06-30 15:32:35.913467
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_076.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_076.nc, duy
+
+open files depth: 75 [65-86]
+2021-06-30 15:33:10.546336
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_075.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_075.nc, duy
+
+open files depth: 75 [65-86]
+2021-06-30 15:33:40.089336
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_075.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_075.nc, duy
+
+open files depth: 74 [65-86]
+2021-06-30 15:34:15.376586
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_074.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_074.nc, duy
+
+open files depth: 74 [65-86]
+2021-06-30 15:34:47.827577
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_074.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_074.nc, duy
+
+open files depth: 73 [65-86]
+2021-06-30 15:35:19.537452
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_073.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_073.nc, duy
+
+open files depth: 73 [65-86]
+2021-06-30 15:35:51.429609
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_073.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_073.nc, duy
+
+open files depth: 72 [65-86]
+2021-06-30 15:36:23.960082
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_072.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_072.nc, duy
+
+open files depth: 72 [65-86]
+2021-06-30 15:36:57.915605
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_072.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_072.nc, duy
+
+open files depth: 71 [65-86]
+2021-06-30 15:37:31.470479
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_071.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_071.nc, duy
+
+open files depth: 71 [65-86]
+2021-06-30 15:38:05.397453
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_071.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_071.nc, duy
+
+open files depth: 70 [65-86]
+2021-06-30 15:38:42.467122
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_070.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_070.nc, duy
+
+open files depth: 70 [65-86]
+2021-06-30 15:39:17.499680
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_070.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_070.nc, duy
+
+open files depth: 69 [65-86]
+2021-06-30 15:39:51.839859
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_069.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_069.nc, duy
+
+open files depth: 69 [65-86]
+2021-06-30 15:40:23.076664
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_069.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_069.nc, duy
+
+open files depth: 68 [65-86]
+2021-06-30 15:40:58.578361
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_068.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_068.nc, duy
+
+open files depth: 68 [65-86]
+2021-06-30 15:41:33.667400
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_068.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_068.nc, duy
+
+open files depth: 67 [65-86]
+2021-06-30 15:42:03.260423
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_067.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_067.nc, duy
+
+open files depth: 67 [65-86]
+2021-06-30 15:42:37.924033
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_067.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_067.nc, duy
+
+open files depth: 66 [65-86]
+2021-06-30 15:43:06.705115
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_066.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_066.nc, duy
+
+open files depth: 66 [65-86]
+2021-06-30 15:43:37.469253
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_066.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_066.nc, duy
+
+open files depth: 65 [65-86]
+2021-06-30 15:44:08.576044
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_065.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_065.nc, duy
+
+open files depth: 65 [65-86]
+2021-06-30 15:44:38.876362
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_065.nc
+Calc derivatives duy...
+Saving SF /atlantic/michalshaham/Data/Reduced_Mean/Stochastic/XY_065.nc, duy
+BYE BYE

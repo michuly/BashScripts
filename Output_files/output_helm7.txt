@@ -1,0 +1,32 @@
+START RUNNING: DEPTHS 97-112
+
+open files depth: 97 [97-112]
+2021-08-05 12:00:07.900758
+16 LF None False 0 722
+Defining dataset : Steady 97
+/atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_097.nc
+Calc helm...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_097.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_097.nc
+Traceback (most recent call last):
+  File "/analysis/michalshaham/PythonProjects/Oceanography/scripts/calc_data/Helmholz_data.py", line 58, in <module>
+    helmholz_and_save(data_set, L=200000, dx=390, file_name=file_name, derivatives=derivatives)
+  File "/analysis/michalshaham/PythonProjects/Oceanography/scripts/calc_data/Helmholz_data.py", line 24, in helmholz_and_save
+    u_rot, v_rot = helmholz_decomposition_netcdf(data_set, L, dx, ax_x=2, ax_y=1, use_derivatives=False)
+  File "/analysis/michalshaham/PythonProjects/Oceanography/tools/simulation_analysis.py", line 156, in helmholz_decomposition_netcdf
+    return helmholz_decomposition_vorticity(vort, L, dx, ax_x=ax_x, ax_y=ax_y)
+  File "/analysis/michalshaham/PythonProjects/Oceanography/tools/flow_analysis.py", line 41, in helmholz_decomposition_vorticity
+    psi = poisson_eq(vort, L=L, axes=(ax_x, ax_y), flags=(0, -1))
+  File "/analysis/michalshaham/PythonProjects/Oceanography/tools/data_analysis_tools.py", line 212, in poisson_eq
+    yyt = np.fft.fftn(y, axes=axes)
+  File "<__array_function__ internals>", line 5, in fftn
+  File "/home/michalshaham/miniconda3/lib/python3.8/site-packages/numpy/fft/_pocketfft.py", line 755, in fftn
+    return _raw_fftnd(a, s, axes, fft, norm)
+  File "/home/michalshaham/miniconda3/lib/python3.8/site-packages/numpy/fft/_pocketfft.py", line 652, in _raw_fftnd
+    a = function(a, n=s[ii], axis=axes[ii], norm=norm)
+  File "<__array_function__ internals>", line 5, in fft
+  File "/home/michalshaham/miniconda3/lib/python3.8/site-packages/numpy/fft/_pocketfft.py", line 185, in fft
+    output = _raw_fft(a, n, axis, False, True, inv_norm)
+  File "/home/michalshaham/miniconda3/lib/python3.8/site-packages/numpy/fft/_pocketfft.py", line 74, in _raw_fft
+    r = pfi.execute(a, is_real, is_forward, fct)
+MemoryError: Unable to allocate 11.3 GiB for an array with shape (722, 1024, 1024) and data type complex128

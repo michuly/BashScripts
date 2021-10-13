@@ -1,0 +1,1779 @@
+START RUNNING: DEPTHS 66-77
+24 LF rot True 0 722
+24 HF div True 0 722
+
+open files depth: 77 [66-77]
+2021-09-18 19:16:04.391039 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 077
+already exist: /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 077
+
+open files depth: 77 [66-77]
+2021-09-18 19:16:04.455090 , process pid:  227510
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 77 [66-77]
+2021-09-18 19:40:40.000223 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 77 [66-77]
+2021-09-18 19:58:11.739471 , process pid:  227510
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc, 077
+
+open files depth: 77 [66-77]
+2021-09-18 20:14:48.285183 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 077
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc, 077
+
+open files depth: 77 [66-77]
+2021-09-18 20:29:32.477904 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 077
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_077.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+20 LF rot True 0 722
+20 HF div True 0 722
+
+open files depth: 77 [66-77]
+2021-09-18 20:41:29.894302 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 77 [66-77]
+2021-09-18 20:59:17.368927 , process pid:  227510
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc, 077
+
+open files depth: 77 [66-77]
+2021-09-18 21:07:09.249142 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc, 077
+
+open files depth: 77 [66-77]
+2021-09-18 21:15:10.352596 , process pid:  227510
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 77 [66-77]
+2021-09-18 21:29:48.700244 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc 077
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+
+open files depth: 77 [66-77]
+2021-09-18 21:43:29.602211 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc 077
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_077.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+16 LF rot True 0 722
+16 HF div True 0 722
+
+open files depth: 77 [66-77]
+2021-09-18 21:54:17.780215 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Www.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Www.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 77 [66-77]
+2021-09-18 22:15:59.587816 , process pid:  227510
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wee.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wee.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 77 [66-77]
+2021-09-18 22:26:42.044421 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wwe.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wwe.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 77 [66-77]
+2021-09-18 22:36:12.898263 , process pid:  227510
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wew.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_hor_Wew.nc 077
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 77 [66-77]
+2021-09-18 22:51:58.804145 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Www.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Www.nc 077
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Www.nc, 077
+
+open files depth: 77 [66-77]
+2021-09-18 23:06:58.328036 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Wwe.nc
+Defining dataset : Steady 77
+Defining dataset : Steady 77
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw16_LF_rot_fw16_HF_div/XY_ver_Wwe.nc 077
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_LF/XY_077.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw16/XY_077.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw16_HF/XY_077.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+24 LF rot True 0 722
+24 HF div True 0 722
+
+open files depth: 76 [66-77]
+2021-09-18 23:17:09.144154 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-18 23:41:54.945086 , process pid:  227510
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-18 23:51:24.675979 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 00:02:30.047758 , process pid:  227510
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 00:19:59.535637 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 076
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 00:33:28.266069 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 076
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_LF/XY_076.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 00:41:31.738614 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc
+Defining dataset : Steady 76
+Defining dataset : Steady 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Www.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 01:01:38.946471 , process pid:  227510
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc
+Defining dataset : Steady 76
+Defining dataset : Steady 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wee.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 01:12:06.484281 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc
+Defining dataset : Steady 76
+Defining dataset : Steady 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wwe.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 01:17:53.102558 , process pid:  227510
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc
+Defining dataset : Steady 76
+Defining dataset : Steady 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_hor_Wew.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 01:32:29.429165 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc
+Defining dataset : Steady 76
+Defining dataset : Steady 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Www.nc 076
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 01:44:42.194833 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc
+Defining dataset : Steady 76
+Defining dataset : Steady 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw24_LF_rot_fw24_HF_div/XY_ver_Wwe.nc 076
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_LF/XY_076.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw24/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw24_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+20 LF rot True 0 722
+20 HF div True 0 722
+
+open files depth: 76 [66-77]
+2021-09-19 01:51:59.292561 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 02:07:55.341688 , process pid:  227510
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 02:15:27.769207 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wwe.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 02:21:14.837481 , process pid:  227510
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_hor_Wew.nc, 076
+
+open files depth: 76 [66-77]
+2021-09-19 02:33:10.830015 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc 076
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Www.nc, 076
+
+open files depth: 76 [66-77]
+2021-09-19 02:43:10.100653 , process pid:  227510
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc
+Defining dataset : Stochastic 76
+Defining dataset : Stochastic 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc 076
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  duz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_LF/XY_076.nc
+Reducing mean for:  dvz
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Stochastic/fw20_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw20_LF_rot_fw20_HF_div/XY_ver_Wwe.nc, 076
+
+open files depth: 76 [66-77]
+2021-09-19 02:47:49.052297 , process pid:  227510
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc
+Defining dataset : Steady 76
+Defining dataset : Steady 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Www.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_hor_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+
+open files depth: 76 [66-77]
+2021-09-19 03:04:11.583808 , process pid:  227510
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc
+Defining dataset : Steady 76
+Defining dataset : Steady 76
+Starting to initialize...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc 076
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc
+Reducing mean for:  duy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Reducing mean for:  u
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_LF/XY_076.nc
+Reducing mean for:  dvy
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_steady_hfoutput/slice_dir/2D_xyt/XY_ver__076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Steady/fw20/XY_076.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Helmholz/Steady/fw20_HF/XY_076.nc
+Reducing mean for:  v
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+HDF5-DIAG: Error detected in HDF5 (1.10.4) thread 139823872300864:
+  #000: H5F.c line 509 in H5Fopen(): unable to open file
+    major: File accessibilty
+    minor: Unable to open file
+  #001: H5Fint.c line 1400 in H5F__open(): unable to open file
+    major: File accessibilty
+    minor: Unable to open file
+  #002: H5Fint.c line 1615 in H5F_open(): unable to lock the file
+    major: File accessibilty
+    minor: Unable to open file
+  #003: H5FD.c line 1640 in H5FD_lock(): driver lock request failed
+    major: Virtual File Layer
+    minor: Can't update object
+  #004: H5FDsec2.c line 941 in H5FD_sec2_lock(): unable to lock file, errno = 11, error message = 'Resource temporarily unavailable'
+    major: File accessibilty
+    minor: Bad file ID accessed
+Traceback (most recent call last):
+  File "/analysis/michalshaham/PythonProjects/Oceanography/scripts/analyze_data/Flx_calc_decompositions.py", line 123, in <module>
+    calc_and_save(data_sets, flags, axes, direction, file_name)
+  File "/analysis/michalshaham/PythonProjects/Oceanography/scripts/analyze_data/Flx_calc_decompositions.py", line 84, in calc_and_save
+    finalize_variable(file_name=file_name, variable=SF, depth_=depth, variable_axes=('freq',))
+  File "/analysis/michalshaham/PythonProjects/Oceanography/tools/save_netCDF.py", line 157, in finalize_variable
+    create_netcdf(name=file_name, fields_keys=(var_str,), fields_values=(variable,), variable_axes=variable_axes,
+  File "/analysis/michalshaham/PythonProjects/Oceanography/tools/save_netCDF.py", line 13, in create_netcdf
+    root_grp = Dataset(name, 'a')
+  File "netCDF4/_netCDF4.pyx", line 2321, in netCDF4._netCDF4.Dataset.__init__
+  File "netCDF4/_netCDF4.pyx", line 1885, in netCDF4._netCDF4._ensure_nc_success
+OSError: [Errno -101] NetCDF: HDF error: b'/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Steady/fw20_LF_rot_fw20_HF_div/XY_hor_Wee.nc'

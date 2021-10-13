@@ -1,0 +1,11 @@
+START RUNNING: DEPTHS 97-129
+
+open files depth: 97 [97-129]
+2021-10-10 13:26:46.510977 , process pid:  74651
+0 LF None True 0 722
+Defining dataset : Stochastic 97
+Creating Directory:  /atlantic/michalshaham/Data/PSD/Reduce_Mean/1D/Stochastic
+Traceback (most recent call last):
+  File "/analysis/michalshaham/PythonProjects/Oceanography/scripts/analyze_data/PSD_calc_full.py", line 73, in <module>
+    os.mkdir(path_name)
+FileNotFoundError: [Errno 2] No such file or directory: '/atlantic/michalshaham/Data/PSD/Reduce_Mean/1D/Stochastic'

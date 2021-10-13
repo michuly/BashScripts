@@ -1,0 +1,35 @@
+START RUNNING: DEPTHS 108-129
+
+open files depth: 129 [108-129]
+2021-06-30 15:21:51.984144
+Wrong Helm
+/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_129.nc
+HDF5-DIAG: Error detected in HDF5 (1.10.4) thread 139705070159680:
+  #000: H5F.c line 509 in H5Fopen(): unable to open file
+    major: File accessibilty
+    minor: Unable to open file
+  #001: H5Fint.c line 1400 in H5F__open(): unable to open file
+    major: File accessibilty
+    minor: Unable to open file
+  #002: H5Fint.c line 1615 in H5F_open(): unable to lock the file
+    major: File accessibilty
+    minor: Unable to open file
+  #003: H5FD.c line 1640 in H5FD_lock(): driver lock request failed
+    major: Virtual File Layer
+    minor: Can't update object
+  #004: H5FDsec2.c line 941 in H5FD_sec2_lock(): unable to lock file, errno = 11, error message = 'Resource temporarily unavailable'
+    major: File accessibilty
+    minor: Bad file ID accessed
+Calc derivatives duy...
+Traceback (most recent call last):
+  File "/analysis/michalshaham/PythonProjects/Oceanography/scripts/calc_data/Derivative_data.py", line 53, in <module>
+    derivative_and_save(data_set, var_str, exp, depth, L=200000, dx=390, file_name=file_name)
+  File "/analysis/michalshaham/PythonProjects/Oceanography/scripts/calc_data/Derivative_data.py", line 32, in derivative_and_save
+    finalize_data(file_name, var_str=var_str, data=data)
+  File "/analysis/michalshaham/PythonProjects/Oceanography/tools/save_netCDF.py", line 145, in finalize_data
+    create_netcdf(name=file_name, fields_keys=(var_str,), fields_values=(data,), variable_axes=('t', 'y', 'x'),
+  File "/analysis/michalshaham/PythonProjects/Oceanography/tools/save_netCDF.py", line 13, in create_netcdf
+    root_grp = Dataset(name, 'a')
+  File "netCDF4/_netCDF4.pyx", line 2321, in netCDF4._netCDF4.Dataset.__init__
+  File "netCDF4/_netCDF4.pyx", line 1885, in netCDF4._netCDF4._ensure_nc_success
+OSError: [Errno -101] NetCDF: HDF error: b'/atlantic/michalshaham/Data/Reduced_Mean/Steady/XY_129.nc'

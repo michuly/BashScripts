@@ -1,0 +1,42 @@
+HELLO WORLD
+FLUXES: 1 13
+/analysis/michalshaham/BashScripts/Output_files/output_flux1.txt
+DONE FLUXES: 1 13
+FLUXES: 14 26
+/analysis/michalshaham/BashScripts/Output_files/output_flux2.txt
+DONE FLUXES: 14 26
+FLUXES: 27 39
+/analysis/michalshaham/BashScripts/Output_files/output_flux3.txt
+DONE FLUXES: 27 39
+FLUXES: 40 52
+/analysis/michalshaham/BashScripts/Output_files/output_flux4.txt
+DONE FLUXES: 40 52
+FLUXES: 53 65
+/analysis/michalshaham/BashScripts/Output_files/output_flux5.txt
+DONE FLUXES: 53 65
+FLUXES: 66 77
+/analysis/michalshaham/BashScripts/Output_files/output_flux6.txt
+DONE FLUXES: 66 77
+FLUXES: 78 90
+/analysis/michalshaham/BashScripts/Output_files/output_flux7.txt
+DONE FLUXES: 78 90
+FLUXES: 91 103
+/analysis/michalshaham/BashScripts/Output_files/output_flux8.txt
+DONE FLUXES: 91 103
+FLUXES: 104 116
+/analysis/michalshaham/BashScripts/Output_files/output_flux9.txt
+DONE FLUXES: 104 116
+FLUXES: 117 129
+/analysis/michalshaham/BashScripts/Output_files/output_flux10.txt
+DONE FLUXES: 117 129
+/analysis/michalshaham/BashScripts/SpectralFluxDecomp.bash: line 65: 18260 Terminated              python ${fluxes_script} ${min_depth[$i]} ${max_depth[$i]} &>${output_files[$i]}
+/analysis/michalshaham/BashScripts/SpectralFluxDecomp.bash: line 65: 18281 Terminated              python ${fluxes_script} ${min_depth[$i]} ${max_depth[$i]} &>${output_files[$i]}
+/analysis/michalshaham/BashScripts/SpectralFluxDecomp.bash: line 65: 18324 Terminated              python ${fluxes_script} ${min_depth[$i]} ${max_depth[$i]} &>${output_files[$i]}
+/analysis/michalshaham/BashScripts/SpectralFluxDecomp.bash: line 65: 18362 Terminated              python ${fluxes_script} ${min_depth[$i]} ${max_depth[$i]} &>${output_files[$i]}
+/analysis/michalshaham/BashScripts/SpectralFluxDecomp.bash: line 65: 18388 Terminated              python ${fluxes_script} ${min_depth[$i]} ${max_depth[$i]} &>${output_files[$i]}
+/analysis/michalshaham/BashScripts/SpectralFluxDecomp.bash: line 65: 18406 Killed                  python ${fluxes_script} ${min_depth[$i]} ${max_depth[$i]} &>${output_files[$i]}
+/analysis/michalshaham/BashScripts/SpectralFluxDecomp.bash: line 65: 18438 Killed                  python ${fluxes_script} ${min_depth[$i]} ${max_depth[$i]} &>${output_files[$i]}
+/analysis/michalshaham/BashScripts/SpectralFluxDecomp.bash: line 65: 18305 Terminated              python ${fluxes_script} ${min_depth[$i]} ${max_depth[$i]} &>${output_files[$i]}
+/analysis/michalshaham/BashScripts/SpectralFluxDecomp.bash: line 65: 18521 Terminated              python ${fluxes_script} ${min_depth[$i]} ${max_depth[$i]} &>${output_files[$i]}
+/analysis/michalshaham/BashScripts/SpectralFluxDecomp.bash: line 65: 18342 Terminated              python ${fluxes_script} ${min_depth[$i]} ${max_depth[$i]} &>${output_files[$i]}
+BYE BYE

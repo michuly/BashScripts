@@ -1,0 +1,14 @@
+HELLO WORLD
+FLUXES: 1 32
+/analysis/michalshaham/BashScripts/Output_files/output_psd1.txt
+DONE FLUXES: 1 32
+FLUXES: 33 64
+/analysis/michalshaham/BashScripts/Output_files/output_psd2.txt
+DONE FLUXES: 33 64
+FLUXES: 65 96
+/analysis/michalshaham/BashScripts/Output_files/output_psd3.txt
+DONE FLUXES: 65 96
+FLUXES: 97 129
+/analysis/michalshaham/BashScripts/Output_files/output_psd4.txt
+DONE FLUXES: 97 129
+BYE BYE

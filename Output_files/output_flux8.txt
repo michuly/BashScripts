@@ -1,0 +1,1831 @@
+START RUNNING: DEPTHS 91-103
+18 LF None True 0 722
+18 HF None True 0 722
+
+open files depth: 103 [91-103]
+2021-10-09 12:00:55.488114 , process pid:  18406
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 12:17:02.411197 , process pid:  18406
+(1, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 12:23:52.070424 , process pid:  18406
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 12:45:24.370992 , process pid:  18406
+(1, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 13:03:19.652598 , process pid:  18406
+(1, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 13:15:42.112655 , process pid:  18406
+(1, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 13:26:53.690121 , process pid:  18406
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 13:36:54.912167 , process pid:  18406
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 13:53:28.133293 , process pid:  18406
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 14:05:04.984682 , process pid:  18406
+(1, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 14:11:58.126379 , process pid:  18406
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 14:26:30.376383 , process pid:  18406
+(1, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 14:37:46.664117 , process pid:  18406
+(1, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 14:46:21.546511 , process pid:  18406
+(1, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 14:55:13.776285 , process pid:  18406
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc, 103
+
+open files depth: 103 [91-103]
+2021-10-09 15:03:29.693760 , process pid:  18406
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc
+Defining dataset : Stochastic 103
+Defining dataset : Stochastic 103
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc 103
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_103.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_103.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc, 103
+18 LF None True 0 722
+18 HF None True 0 722
+
+open files depth: 102 [91-103]
+2021-10-09 15:15:35.130435 , process pid:  18406
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 15:29:52.095487 , process pid:  18406
+(1, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 15:35:52.814886 , process pid:  18406
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 15:56:38.734659 , process pid:  18406
+(1, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 16:15:41.234226 , process pid:  18406
+(1, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 16:28:17.535767 , process pid:  18406
+(1, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 16:40:40.085415 , process pid:  18406
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 16:50:48.882963 , process pid:  18406
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wew.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 17:05:27.227383 , process pid:  18406
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wwe.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 17:16:39.010336 , process pid:  18406
+(1, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eee.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 17:21:51.683649 , process pid:  18406
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Www.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 17:35:31.603128 , process pid:  18406
+(1, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eww.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 17:48:00.163967 , process pid:  18406
+(1, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Ewe.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 17:55:12.497839 , process pid:  18406
+(1, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Eew.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 18:03:04.671192 , process pid:  18406
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wee.nc, 102
+
+open files depth: 102 [91-103]
+2021-10-09 18:10:53.150516 , process pid:  18406
+(2, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc
+Defining dataset : Stochastic 102
+Defining dataset : Stochastic 102
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc 102
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc, try_num 0 ...
+Vertical Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  duz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  w
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  dvz
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_102.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_102.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Vertical Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_ver_Wew.nc, 102
+18 LF None True 0 722
+18 HF None True 0 722
+
+open files depth: 101 [91-103]
+2021-10-09 18:22:47.347992 , process pid:  18406
+(2, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc
+Defining dataset : Stochastic 101
+Defining dataset : Stochastic 101
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc 101
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wwe.nc, 101
+
+open files depth: 101 [91-103]
+2021-10-09 18:38:23.628033 , process pid:  18406
+(1, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc
+Defining dataset : Stochastic 101
+Defining dataset : Stochastic 101
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc 101
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eee.nc, 101
+
+open files depth: 101 [91-103]
+2021-10-09 18:43:48.496044 , process pid:  18406
+(2, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc
+Defining dataset : Stochastic 101
+Defining dataset : Stochastic 101
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc 101
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Www.nc, 101
+
+open files depth: 101 [91-103]
+2021-10-09 18:59:52.162762 , process pid:  18406
+(1, 2, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc
+Defining dataset : Stochastic 101
+Defining dataset : Stochastic 101
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc 101
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eww.nc, 101
+
+open files depth: 101 [91-103]
+2021-10-09 19:24:38.095420 , process pid:  18406
+(1, 2, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc
+Defining dataset : Stochastic 101
+Defining dataset : Stochastic 101
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc 101
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_ver_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Ewe.nc, 101
+
+open files depth: 101 [91-103]
+2021-10-09 19:37:18.318156 , process pid:  18406
+(1, 1, 2)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc
+Defining dataset : Stochastic 101
+Defining dataset : Stochastic 101
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc 101
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  duy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc v 0-722, try_num 0 ...
+calc SF...
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  u
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Opening Dataset:  /atlantic/rbarkan/flow_solve/LS_hres_stochastic_final_hfoutput/slice_dir/2D_xyt/XY_hor_101.nc
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  dvy
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+Opening Dataset:  /atlantic/michalshaham/Data/Filtered/Stochastic/fw18/XY_101.nc
+Reducing mean for:  v
+Shape after ref (722, 1024, 1024)
+calculating fft... 
+calculating radial profile
+Horizontal Flux calc... done
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, try_num 0 ...
+Saving SF /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Eew.nc, 101
+
+open files depth: 101 [91-103]
+2021-10-09 19:55:53.085839 , process pid:  18406
+(2, 1, 1)
+/atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc
+Defining dataset : Stochastic 101
+Defining dataset : Stochastic 101
+Starting to initialize...
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc, try_num 0 ...
+Initialzing Variable:  /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc 101
+Accessing file /atlantic/michalshaham/Data/Spectral_Flux/Reduce_Mean/Stochastic/fw18/XY_hor_Wee.nc, try_num 0 ...
+Horizontal Flux calc u 0-722, try_num 0 ...
